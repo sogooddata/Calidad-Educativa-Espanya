@@ -1,0 +1,20 @@
+;Literal;Competencia en Matemáticas (PISA);Competencia en Ciencias  (PISA);Competencia Lengua  (PISA);Competencia Global  (PISA);CCAA;Vandalismo (DATOS.GOB.ES);Tasa de Empleo(DATOS.GOB.ES);Tasa de Paro(DATOS.GOB.ES);PIB per Capita;Nº medio de alumnos por profesor (Todos los centros);Nº medio de alumnos por profesor (Centros públicos);Nº medio de alumnos por profesor (Centros privados);Abandono temprano de la educación-formación en la población de 18 a 24 años (%);Sentimiento de felicidad en las cuatro últimas semanas (%) Muy a menudo;Sentimiento de felicidad en las cuatro últimas semanas (%) Algunas veces;Sentimiento de felicidad en las cuatro últimas semanas (%) Nunca;Porcentaje de alumnado que supera 4 de la ESO;Porcentaje de alumnado que supera 4 de la ESO (Todas materias superadas);Porcentaje de alumnado que supera 4 de la ESO(Con materias no superadas);Porcentaje de alumnado que supera Bachillerato;Porcentaje de alumnado que supera Bachillerato (Todas materias superadas);Porcentaje de alumnado que supera Bachillerato (Con materias no superadas)
+1;Andaluc�a;473.0;477.0;473.0;507.0;1;14.9;43.8;23.0;19.118;13.2;12.5;15.7;21.9;67.4;30.2;2.4;83.9;58.1;25.8;81.6;59.8;21.8
+2;Arag�n;501.0;497.0;494.0;531.0;2;9.9;52.4;10.6;28.007;11.3;10.3;14.3;15.8;84.8;14.8;0.4;87.1;63.8;23.3;88.2;67.7;20.5
+3;Asturias. Principado de;494.0;499.0;498.0;530.0;3;5.1;43.9;13.6;22.709;10.6;9.4;15.4;12.6;67.0;30.6;2.4;85.8;60.8;24.9;87.9;65.9;22.0
+4;Balears. Illes;487.0;486.0;483.0;518.0;4;9.4;57.0;11.5;27.870;11.0;10.0;13.3;24.4;82.6;16.5;0.9;84.4;72.2;12.2;82.8;60.7;22.1
+5;Canarias;463.0;472.0;474.0;503.0;5;9.7;48.3;20.1;20.940;12.4;11.6;15.3;20.9;76.2;22.0;1.9;84.7;60.9;23.8;85.8;61.0;24.8
+6;Cantabria;505.0;501.0;489.0;533.0;6;4.3;49.0;10.7;23.646;10.5;9.5;13.7;9.8;77.1;21.7;1.2;88.4;61.1;27.3;86.7;62.7;24.1
+7;Castilla y Le�n;506.0;504.0;501.0;538.0;7;6.2;47.9;12.1;24.261;10.8;9.4;15.3;13.9;70.6;27.0;2.3;85.6;59.6;26.0;83.5;60.9;22.6
+8;Castilla - La Mancha;483.0;488.0;482.0;516.0;8;6.8;48.1;18.2;20.451;11.4;10.6;16.0;20.5;60.4;37.3;2.3;81.1;54.9;26.2;86.8;63.0;23.8
+9;Catalu�a;492.0;491.0;487.0;517.0;9;11.1;54.2;11.5;30.514;12.5;11.7;14.4;17.0;72.8;25.6;1.6;88.9;88.9;0.0;84.8;65.8;19.0
+10;Comunitat Valenciana;474.0;478.0;469.0;504.0;10;2.5;42.2;23.6;22.592;12.2;11.1;15.3;20.2;77.2;21.3;1.4;84.1;62.9;21.2;83.3;61.4;21.9
+11;Extremadura;501.0;512.0;496.0;523.0;11;7.6;46.2;13.3;18.827;10.2;9.3;16.7;20.9;81.7;17.8;0.5;85.5;55.3;30.3;84.3;61.0;23.3
+12;Galicia;497.0;486.0;466.0;512.0;12;6.8;53.0;10.4;23.133;10.3;9.3;13.9;14.3;72.5;25.7;1.8;86.5;61.9;24.7;85.3;62.9;22.4
+13;Madrid. Comunidad de;501.0;499.0;487.0;533.0;13;17.6;55.2;12.2;35.091;13.6;13.0;14.2;14.4;72.9;25.4;1.6;85.0;60.8;24.2;87.1;65.1;22.0
+14;Murcia. Regi�n de;483.0;488.0;491.0;528.0;14;10.7;49.4;16.8;21.094;12.4;11.5;15.2;24.1;64.1;34.3;1.6;83.7;57.3;26.4;84.0;59.9;24.1
+15;Navarra. Comunidad Foral de;507.0;496.0;476.0;524.0;15;7.7;53.2;10.0;31.026;11.0;9.4;15.6;11.4;71.7;26.8;1.5;91.6;68.7;22.9;90.1;70.9;19.2
+16;Pa�s Vasco;499.0;488.0;476.0;516.0;16;9.5;50.7;10.0;33.159;12.2;9.2;18.3;6.9;55.9;40.4;3.7;93.2;75.1;18.1;91.9;73.9;18.0
+17;Rioja. La;478.0;482.0;477.0;511.0;17;6.8;49.4;15.6;27.482;12.0;10.8;15.0;17.1;72.1;25.8;2.1;86.0;57.9;28.1;88.2;66.6;21.6
+18;Ceuta;426.0;431.0;422.0;453.0;18;6.0;41.7;29.0;20.251;13.0;12.2;17.8;23.4;92.0;6.5;1.5;77.8;49.7;28.1;71.1;43.7;27.4
+19;Melilla;447.0;452.0;452.0;486.0;19;21.1;46.6;25.8;18.700;13.8;13.3;17.6;29.5;83.3;15.5;1.2;78.9;48.5;30.4;82.1;54.7;27.4

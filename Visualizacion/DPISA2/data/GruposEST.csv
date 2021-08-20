@@ -1,0 +1,56 @@
+;DescripcionGrupo;CodigoGrupo;CodigoGrupo2;Cuestionario;Tipo;Visible
+0;Control Absentismo escolar;ABSESC;G1;Estudiantes;0;S
+1;Aceptación y respeto a la diversidad cultural;ACERESCU;G1;Estudiantes;0; 
+2;Acoso escolar;ACOESCO;G1;Estudiantes;0;S
+3;Actividad física;ACTIFIS;G1;Estudiantes;0; 
+4;Aplicación de la educación financiera;APLIEDUFIN;G1;Estudiantes;0; 
+5;Apoyo en las actividades educativas;APOACTEDU;G1;Estudiantes;0;S
+6;Aprendizaje de capacidades de análisis y pensamiento crítico;APRECAPEN;G1;Estudiantes;0;S
+7;Asistencia a programas de refuerzo escolar;ASIREES;G1;Estudiantes;0;
+8;Autopercepción sobre su propio futuro;AUTPROFU;G1;Estudiantes;0;
+9;Bagaje cultural;BAGACUL;G1;Estudiantes;0;
+10;Cambios en la escolarización;CAMESCO;G1;Estudiantes;0;
+11;Capacidad de adaptación;CAPAADAP;G1;Estudiantes;0;
+12;Capacidades dirigidas a la orientación educativa y profesional;CAPADI;G1;Estudiantes;0;S
+13;Capacidad de empatía;CAPAEMP;G1;Estudiantes;0;
+14;Compentitividad entre el alumnado;COMPENAL;G1;Estudiantes;0;
+15;Comprensión lectora;COMPLECT;G1;Estudiantes;0;S
+16;Conciencia del impacto en el mundo;CONCIIM;G1;Estudiantes;0; 
+17;Cooperación entre el alumnado;COOALUM;G1;Estudiantes;0;
+18;Educación de la familia;EDUFAM;G1;Estudiantes;0;S
+19;Educación financiera en casa;EDUFINACA;G1;Estudiantes;0;S
+20;Educación financiera;EDUFINACO;G1;Estudiantes;0;S
+21;Educación tecnológica en el centro educativo;EDUTECCEN;G1;Estudiantes;0;
+22;Educación tecnológica;EDUTECCO;G1;Estudiantes;0;S
+23;Emociones relacionadas con la asistencia a clase;EMOASICL;G2;Estudiantes;0;
+24;Emociones relacionadas con la realización de deberes;EMOASIDE;G2;Estudiantes;0;
+25;Emociones relacionadas con tu día a día;EMODIA;G2;Estudiantes;0;
+26;Emociones relacionadas con el tiempo libre en colegio;EMORECOL;G2;Estudiantes;0;
+27;Emociones relacionadas con el tiempo libre fuera del colegio;EMOREFUCO;G2;Estudiantes;0;
+28;Experiencias propias de diversidad cultural;EXPCUL;G2;Estudiantes;0;
+29;Expectativas educativas propias (Includ-ed);EXPEPRO;G2;Estudiantes;0;
+30;Falta de disciplina en la clase;FALDISC;G2;Estudiantes;0;
+31;Habitos de estudios: lectura;HALEC;G2;Estudiantes;0;
+32;Habitos de estudios: comprensión lectura;HANLEC;G2;Estudiantes;0;
+34;Interés y proactividad hacia problemas ambientales;INAMBI;G2;Estudiantes;0;
+35;Metodologías participativas, activas, asertivas e inclusivas por parte del docente en el proceso de enseñanaza/aprendizaje (DUA);METOPARTI;G2;Estudiantes;0;
+36;Nivel de estudios de los familiares;NIVEFA;G2;Estudiantes;0;
+37;Objetivo de la escolarización para el alumnado;OBJECAL;G2;Estudiantes;0;
+38;Participación activa del docente en el proceso de enseñanaza/aprendizaje (DUA);PARDOCE;G2;Estudiantes;0;
+39;Participación en programas de orientación educativa y profesional;PARORPRO;G2;Estudiantes;0;S
+40;Penetración tecnol�gica en el colegio;PENDIGI;G2;Estudiantes;0;S
+41;Penetración digital en los hogares;PENHOG;G3;Estudiantes;0;S
+42;Percepción del alumnado sobre el apoyo de sus familiares;PERALU;G3;Estudiantes;0;
+43;Percepción propia del acoso escolar en el colegio;PERPROCOL;G3;Estudiantes;0;
+44;Percepción de su propia vida;PERVIDA;G3;Estudiantes;0;
+45;Posesiones en casa;POSCASA;G3;Estudiantes;0;
+46;Posesiones relacionadas con el estudio;POSESTU;G3;Estudiantes;0;S
+47;Propia imagen;PROIMAGCA;G3;Estudiantes;0;
+48;Propia imagen: identificación de emociones;PROIMAGED;G3;Estudiantes;0; 
+49;Propia imagen-salud;PROIMAGES;G3;Estudiantes;0;
+50;Razones para la elección de futuro educativo y profesional;RAFUR;G3;Estudiantes;0;
+51;Actitudes racistas por parte de profesorado;RECIPRO;G3;Estudiantes;0; 
+52;Relaciones sociales entre pares y familiares;RELAPAR;G3;Estudiantes;0;
+53;Tiempo de estudio;TIESTU;G3;Estudiantes;0;
+54;Uso de la tecnología;USOTECCA;G3;Estudiantes;0;S
+55;Uso de la tecnología fuera del colegio;USOTECFU;G3;Estudiantes;0;S

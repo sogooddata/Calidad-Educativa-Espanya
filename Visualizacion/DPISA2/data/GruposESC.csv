@@ -1,0 +1,32 @@
+;DescripcionGrupo;CodigoGrupo;CodigoGrupo2;Cuestionario;Tipo;Visible
+0;Tamaño de la clase;CLSIZE;G1;Escuelas;0;
+1;Oferta de actividades extracurriculares;CREACTIV;G1;Escuelas;0;S
+3;Uso de los datos de rendimiento en el colegio;DATCOLE;G1;Escuelas;0;S
+4;Identificación de las dificultades en el centro educativo por falta de preparación;DIFPREPA;G1;Escuelas;0;
+5;Identificación de las dificultades en el centro educativo por presupuesto;DIFPRESU;G1;Escuelas;0;S
+6;Políticas de digitalización en el centro educativo;DIGIEDU;G1;Escuelas;0;
+7;Practicas educativas orientadas a favorecer la diversidad cultural;DIVECUL;G1;Escuelas;0;S
+8;Percepción del profesorado sobre la importancia de la educación intercultural;EDUINTE;G1;Escuelas;0;
+9;Uso de las evaluaciones del alumnado;EVAALU;G1;Escuelas;0;
+10;Formación del profesorado;FORPRO;G1;Escuelas;0;
+11;Percepción de las razones del fracaso escolar;FRAESCO;G2;Escuelas;0;
+12;Garantía de calidad del colegio;GARCOLE;G2;Escuelas;0;
+13;Grado de participación/implicación de las familias;GRAFAMI;G2;Escuelas;0;S
+14;Horario del profesorado;HORPRO;G2;Escuelas;0;
+15;Orientación educativa;ORIEDU;G2;Escuelas;0;S
+16;Peso curricular;PESCURRI;G2;Escuelas;0;
+17;Políticas escorales orientadas a la equidad;POLEQUI;G2;Escuelas;0;S
+18;Presupuesto del centro;PREPCEN;G2;Escuelas;0;
+19;Programación curricular teniendo en cuenta la diversidad cultural;PRODIVCUL;G2;Escuelas;0;S
+20;Inclusión de problemas globales en el currículo;PROGLO;G2;Escuelas;0;
+21;¿Cúal de las siguientes definiciones describe mejor la comunidad en donde se encuentra tu centro educativo?;SC001Q01TA;G2;Escuelas;0;
+22;Nivel de escolarización;SC011Q01TA;G2;Escuelas;0;S
+23;Agrupación del alumnado;SC042Q01TA;G3;Escuelas;0;
+24;Agrupación del alumnado2;SC042Q02TA;G3;Escuelas;0;
+25;Porcentaje: estudiantes cuya lengua materna es diferente al idioma vehicular del centro?;SC048Q01NA;G3;Escuelas;0;
+26;Porcentaje: estudiantes con necesidades específicas;SC048Q02NA;G3;Escuelas;0;
+27;Porcentaje: estudiantes en casas con una situación de vulnerabilidad socioeconómica;SC048Q03NA;G3;Escuelas;0;
+28;Propiedad de la escuela;SCHLTYPE;G3;Escuelas;0;
+29;Tamaño del centro;SCHSIZE;G3;Escuelas;0;
+31;Ratio estudiante-profesorado;STRATIO;G3;Escuelas;0;
+32;Penetración tecnológica en el centro;TECCEN;G3;Escuelas;0;

@@ -1,0 +1,10 @@
+DescripcionGrupo;CodigoGrupo;CodigoGrupo2;Tipo;Cuestionario
+Comprensión lectora;CompreLec;G2;0.0;Estudiantes
+Educación tecnológica;EduTec;G2;0.0;Estudiantes
+Educación tecnológica en el centro educativo;EduTecCen;G2;0.0;Estudiantes
+Expectativas educativas propias (Includ-ed);ExpPro;G2;0.0;Estudiantes
+Falta de disciplina en la clase;FalDis;G1;0.0;Estudiantes
+Habitos de estudios: comprensión lectura;HabitoComLec;G2;0.0;Estudiantes
+Habitos de estudios: lectura;HabitoLec;G2;0.0;Estudiantes
+"Metodologías participativas, activas, asertivas e inclusivas por parte del docente en el proceso de enseñanaza/aprendizaje (DUA)""";MetoParti;G1;0.0;Estudiantes
+Participación activa del docente en el proceso de enseñanaza/aprendizaje (DUA);PartAct;G1;0.0;Estudiantes

@@ -1,0 +1,25 @@
+;DescripcionGrupo;CodigoGrupo;CodigoGrupo2;Cuestionario;Tipo;Visible
+0;Autopercepción de la incidencia del docente en el rendimiento y comportamiento del alumnado;AUTOPER;G1;Profesores;0;
+1;Cutura de centro educativo con respecto a la diversidad cultural;CULCENC;G1;Profesores;0;
+2;Dificultades en la práctica docente con el alumnado;DIFIDO;G1;Profesores;0;S
+3;Estrategias de enseñanza en entornos multiculturales;ESENMULTI;G1;Profesores;0; 
+5;Formación del profesorado;FORDOC;G2;Profesores;0;S
+6;Implicación en la evaluación del alumnado;IMEVAL;G2;Profesores;0; 
+7;Importancia de las habilidades básicas en educación en su enseñannza;IMHAED;G2;Profesores;0;S
+8;Interés por la docencia;INTDOC;G2;Profesores;0;
+9;Utilización de metodologías centradas en el alumnado;MECENALU;G3;Profesores;0;
+10;Metodologías inclusivas para la comprensión lectora y el pensamiento crítico;MEINCLU;G3;Profesores;0;S
+11;Metodologías basadas en las TIC;METICD;G3;Profesores;0;S
+12;Necesidades formativas;NECEFOR;G3;Profesores;0;
+13;Opinión sobre derechos de las personas migrantes;OPIMIGR;G3;Profesores;0;
+15;Percepción de las dificultades en la enseñanza;PERDIEN;G3;Profesores;0;
+16;Promover la diversidad cultural;PRODICUL;G3;Profesores;0;
+17;Programas para la diversidad;PRODIV;G3;Profesores;0;S
+18;Promover el pensamiento crítico hacia problemas globales;PROGLOD;G3;Profesores;0;
+19;Soft skills adquiridas en su formación;SSKILL;G3;Profesores;0;
+20;¿Cuántos años tienes?;TC002Q01NA;G3;Profesores;0;
+21;Inclusión de las TIC en el aula;TICAU;G3;Profesores;0;S
+22;Tiempo Experiencia;TIEXP;G3;Profesores;0;S
+23;Trabajo colaborativo con otros docentes ;TRACOLDO;G3;Profesores;0;S
+24;Utilización de estrategias de análisis y comprensión lectora ;UTLECCA;G3;Profesores;0;
+25;Utilización de estrategias de análisis y comprensión lectora en internet;UTLECIN;G3;Profesores;0;

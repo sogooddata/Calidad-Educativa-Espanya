@@ -1,0 +1,298 @@
+﻿Codigo;Descripcion;DescripcionGrupo;CodigoGrupo;Cuestionario;CodigoGrupo2
+TC199Q01HA;En tu enseñanza, ¿en qué medida puede hacer: lograr que los estudiantes crean que pueden mejorar en su trabajo escolar?;Autopercepción de la incidencia del docente en el rendimiento y comportamiento del alumnado;AUTOPER;Profesores;G1
+TC199Q02HA;En tu enseñanza, ¿en qué medida puede hacer: ayudar al alumnado es su aprendizaje?;Autopercepción de la incidencia del docente en el rendimiento y comportamiento del alumnado;AUTOPER;Profesores;G1
+TC199Q03HA;En tu enseñanza, ¿en qué medida puede hacer: elaborar buenas preguntas para mi alumnado?;Autopercepción de la incidencia del docente en el rendimiento y comportamiento del alumnado;AUTOPER;Profesores;G1
+TC199Q04HA;En tu enseñanza, ¿en qué medida puede hacer: contralar el comportamiento disruptivo en la clase?;Autopercepción de la incidencia del docente en el rendimiento y comportamiento del alumnado;AUTOPER;Profesores;G1
+TC199Q05HA;En tu enseñanza, ¿en qué medida puede hacer: motivar al alumnado que muestra bajo interés por el trabajo escolar?;Autopercepción de la incidencia del docente en el rendimiento y comportamiento del alumnado;AUTOPER;Profesores;G1
+TC199Q06HA;En tu enseñanza, ¿en qué medida puede hacer: aclarar mis expectativas sobre el comportamiento del alumnado?;Autopercepción de la incidencia del docente en el rendimiento y comportamiento del alumnado;AUTOPER;Profesores;G1
+TC199Q07HA;En tu enseñanza, ¿en qué medida puede hacer: ayudar al alumnado a pensar de manera crítica?;Autopercepción de la incidencia del docente en el rendimiento y comportamiento del alumnado;AUTOPER;Profesores;G1
+TC199Q08HA;En tu enseñanza, ¿en qué medida puede hacer: hacer que el alumnado siga las normas de clase?;Autopercepción de la incidencia del docente en el rendimiento y comportamiento del alumnado;AUTOPER;Profesores;G1
+TC199Q09HA;En tu enseñanza, ¿en qué medida puede hacer: calmar al estudiante que está distrayendo o haciendo ruido?;Autopercepción de la incidencia del docente en el rendimiento y comportamiento del alumnado;AUTOPER;Profesores;G1
+TC199Q10HA;En tu enseñanza, ¿en qué medida puede hacer: usar estrategias de evaluación variadas?;Autopercepción de la incidencia del docente en el rendimiento y comportamiento del alumnado;AUTOPER;Profesores;G1
+TC199Q11HA;En tu enseñanza, ¿en qué medida puede hacer: facilitar explicaciones alternativas por ejemplo cuando el elumnado está confundido?;Autopercepción de la incidencia del docente en el rendimiento y comportamiento del alumnado;AUTOPER;Profesores;G1
+TC199Q12HA;En tu enseñanza, ¿en qué medida puede hacer: implementar estrategias de enseñanza alternativa en mi clase?;Autopercepción de la incidencia del docente en el rendimiento y comportamiento del alumnado;AUTOPER;Profesores;G1
+TC208Q02HA;Opinión compartida con otros docentes: es importante para el alumando que aprenda que las personas de otras culturas pueden tener...;Cutura de centro educativo con respecto a la diversidad cultural;CULCENC;Profesores;G1
+TC208Q03HA;Opinión compartida con otros docentes: respetar otras culturas es algo que el alumnado debe aprender lo antes posible;Cutura de centro educativo con respecto a la diversidad cultural;CULCENC;Profesores;G1
+TC208Q07HA;Opinión compartida con otros docentes: in clase, es importante que el alumnado de diferentes orígenes reconozcan...;Cutura de centro educativo con respecto a la diversidad cultural;CULCENC;Profesores;G1
+TC208Q08HA;Opinión compartida con otros docentes: cuando hay conflictos entre estudiantes de diferentes orígenes, deben...;Cutura de centro educativo con respecto a la diversidad cultural;CULCENC;Profesores;G1
+TC170Q01HA;¿Con qué frecuencia en tus clases de lengua castellana: la mayoria del alumnado no escucha lo que digo;Dificultades en la práctica docente con el alumnado;DIFIDO;Profesores;G1
+TC170Q02HA;¿Con qué frecuencia en tus clases de lengua castellana: hay ruido y desorden;Dificultades en la práctica docente con el alumnado;DIFIDO;Profesores;G1
+TC170Q03HA;¿Con qué frecuencia en tus clases de lengua castellana: tengo que esperar mucho tiempo para que el alumnado se calme;Dificultades en la práctica docente con el alumnado;DIFIDO;Profesores;G1
+TC170Q04HA;¿Con qué frecuencia en tus clases de lengua castellana: el alumando no trabaja bien;Dificultades en la práctica docente con el alumnado;DIFIDO;Profesores;G1
+TC170Q05HA;¿Con qué frecuencia en tus clases de lengua castellana: el alumnado no empieza a trabajar hasta después de un largo tiempo desde que la clase ha comenzado?;Dificultades en la práctica docente con el alumnado;DIFIDO;Profesores;G1
+TC209Q01HA;Enseñar en ambientes multiculturales: puedo hacer frente a los retos de las clases multiculturales;Estrategias de enseñanza en entornos multiculturales;ESENMULTI;Profesores;G1
+TC209Q02HA;Enseñar en ambientes multiculturales: puedo adaptar mi enseñanza a la diversidad cultural del alumnado;Estrategias de enseñanza en entornos multiculturales;ESENMULTI;Profesores;G1
+TC209Q05HA;Enseñar en ambientes multiculturales: me preocupo para que el alumnado con y sin bagaje migrante trabajen juntos;Estrategias de enseñanza en entornos multiculturales;ESENMULTI;Profesores;G1
+TC209Q06HA;Enseñar en ambientes multiculturales: puedo concienciar al alumando sobre las diferencias culturales;Estrategias de enseñanza en entornos multiculturales;ESENMULTI;Profesores;G1
+TC209Q09HA;Enseñar en ambientes multiculturales: puedo contribuir a reducir los esteroetipos étnicos entre el alumnado;Estrategias de enseñanza en entornos multiculturales;ESENMULTI;Profesores;G1
+TC014Q01HA;¿Has completado tu educación como docente o tus prácticas?;Experiencia Docente;EXPDOC;Profesores;G1
+TC018Q01NA;Incluyendo la formación docente, prácticas u otras cualificaciones: lectura, escritura y literatura;Experiencia Docente;EXPDOC;Profesores;G1
+TC018Q01NB;Enseñar en 3º ESO en el actual año escolar: lectura, escritura y literatura;Experiencia Docente;EXPDOC;Profesores;G1
+TC018Q02NA;Incluyendo la formación docente, prácticas u otras cualificaciones: matemáticas;Experiencia Docente;EXPDOC;Profesores;G1
+TC018Q02NB;Enseñar en 3º ESO en el actual año escolar: matemáticas;Experiencia Docente;EXPDOC;Profesores;G1
+TC018Q03NA;Incluyendo la formación docente, prácticas u otras cualificaciones: ciencias;Experiencia Docente;EXPDOC;Profesores;G1
+TC018Q03NB;Enseñar en 3º ESO en el actual año escolar: ciencias;Experiencia Docente;EXPDOC;Profesores;G1
+TC018Q04NA;Incluyendo la formación docente, prácticas u otras cualificaciones: tecnología;Experiencia Docente;EXPDOC;Profesores;G1
+TC018Q04NB;Enseñar en 3º ESO en el actual año escolar: tecnología;Experiencia Docente;EXPDOC;Profesores;G1
+TC018Q05NA;Incluyendo la formación docente, prácticas u otras cualificaciones: ciencias sociales;Experiencia Docente;EXPDOC;Profesores;G1
+TC018Q05NB;Enseñar en 3º ESO en el actual año escolar: ciencias sociales;Experiencia Docente;EXPDOC;Profesores;G1
+TC018Q06NA;Incluyendo la formación docente, prácticas u otras cualificaciones: Lenguas extranjeras modernas;Experiencia Docente;EXPDOC;Profesores;G1
+TC018Q06NB;Enseñar en 3º ESO en el actual año escolar: lenguas extranjeras modernas;Experiencia Docente;EXPDOC;Profesores;G1
+TC018Q07NA;Incluyendo la formación docente, prácticas u otras cualificaciones: lenguas clásicas (por ejemplo, latín);Experiencia Docente;EXPDOC;Profesores;G1
+TC018Q07NB;Enseñar en 3º ESO en el actual año escolar: lenguas clásicas (por ejemplo, latín);Experiencia Docente;EXPDOC;Profesores;G1
+TC018Q08NA;Incluyendo la formación docente, prácticas u otras cualificaciones: arte (educación artística);Experiencia Docente;EXPDOC;Profesores;G1
+TC018Q08NB;Enseñar en 3º ESO en el actual año escolar: arte (educación artística);Experiencia Docente;EXPDOC;Profesores;G1
+TC018Q09NA;Incluyendo la formación docente, prácticas u otras cualificaciones: educación física;Experiencia Docente;EXPDOC;Profesores;G1
+TC018Q09NB;Enseñar en 3º ESO en el actual año escolar: educación física;Experiencia Docente;EXPDOC;Profesores;G1
+TC018Q10NA;Incluyendo la formación docente, prácticas u otras cualificaciones: lectura, escritura y literatura;Experiencia Docente;EXPDOC;Profesores;G1
+TC018Q10NB;Enseñar en 3º ESO en el actual año escolar: religión y/o ética;Experiencia Docente;EXPDOC;Profesores;G1
+TC018Q11NA;Incluyendo la formación docente, prácticas u otras cualificaciones: religión y/o ética;Experiencia Docente;EXPDOC;Profesores;G1
+TC018Q11NB;Enseñar en 3º ESO en el actual año escolar: prácticas o programas de formación profesional;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q01NA;Incluyendo la formación docente, prácticas u otras cualificaciones: conocimiento y entendimiento del campo de mi(s) asgnatura(s);Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q01NB;Incluyendo el desarrollo profesional de los últimos 12 meses: conocimiento y entendimiento del campo de mi(s) asgnatura(s);Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q02NA;Incluyendo la formación docente, prácticas u otras cualificaciones: competencias pedagógicas en la enseñanza del campo de mi(s) asignatura(s);Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q02NB;Incluyendo el desarrollo profesional de los últimos 12 meses: competencias pedagógicas en la enseñanza del campo de mi(s) asignatura(s);Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q03NA;Incluyendo la formación docente, prácticas u otras cualificaciones: conocimiento del currículo;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q03NB;Incluyendo el desarrollo profesional de los últimos 12 meses: conocimiento del currículo;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q04NA;Incluyendo la formación docente, prácticas u otras cualificaciones: evaluación del alumnado;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q04NB;Incluyendo el desarrollo profesional de los últimos 12 meses: evaluación del alumnado;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q05NA;Incluyendo la formación docente, prácticas u otras cualificaciones: habilidades TIC para la enseñanza;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q05NB;Incluyendo el desarrollo profesional de los últimos 12 meses: habilidades TIC para la enseñanza;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q06NA;Incluyendo la formación docente, prácticas u otras cualificaciones: comportamiento del alumnado y gestión del aula ;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q06NB;Incluyendo el desarrollo profesional de los últimos 12 meses: comportamiento del alumnado y gestión del aula;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q07NA;Incluyendo la formación docente, prácticas u otras cualificaciones: gestión y administración de centros ;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q07NB;Incluyendo el desarrollo profesional de los últimos 12 meses: gestión y administración de centros;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q08NA;Incluyendo la formación docente, prácticas u otras cualificaciones: enfoque de aprendizaje individualizado;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q08NB;Incluyendo el desarrollo profesional de los últimos 12 meses: enfoque de aprendizaje individualizado;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q09NA;Incluyendo la formación docente, prácticas u otras cualificaciones: enseñanza dirigida al alumnado con necesidades específicas;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q09NB;Incluyendo el desarrollo profesional de los últimos 12 meses: enseñanza dirigida al alumnado con necesidades específicas;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q10NA;Incluyendo la formación docente, prácticas u otras cualificaciones: enseñanza en entornos multiculturales o multilingües;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q10NB;Incluyendo el desarrollo profesional de los últimos 12 meses: enseñanza en entornos multiculturales o multilingües;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q11NA;Incluyendo la formación docente, prácticas u otras cualificaciones: enseñanza de habilidades transversales ;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q11NB;Incluyendo el desarrollo profesional de los últimos 12 meses: enseñanza de habilidades transversales;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q12NA;Incluyendo la formación docente, prácticas u otras cualificaciones: orientación y asesoramiento educativo;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q12NB;Incluyendo el desarrollo profesional de los últimos 12 meses: orientación y asesoramiento educativo;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q13NA;Incluyendo la formación docente, prácticas u otras cualificaciones: evaluación interna y autoevaluacion de los centros educativos;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q13NB;Incluyendo el desarrollo profesional de los últimos 12 meses: evaluación interna y autoevaluacion de los centros educativos;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q14NA;Incluyendo la formación docente, prácticas u otras cualificaciones: uso de los resultados de evaluación;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q14NB;Incluyendo el desarrollo profesional de los últimos 12 meses: uso de los resultados de evaluación;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q15NA;Incluyendo la formación docente, prácticas u otras cualificaciones: cooperación entre familias y docentes;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q15NB;Incluyendo el desarrollo profesional de los últimos 12 meses: cooperación entre familias y docentes;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q16HA;Incluyendo la formación docente, prácticas u otras cualificaciones: enseñanza de una segunda lengua;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q16HB;Incluyendo el desarrollo profesional de los últimos 12 meses: enseñanza de una segunda lengua;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q17HA;Incluyendo la formación docente, prácticas u otras cualificaciones: comunicación con personas de diferentes culturas;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q17HB;Incluyendo el desarrollo profesional de los últimos 12 meses: comunicación con personas de diferentes culturas;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q18HA;Incluyendo la formación docente, prácticas u otras cualificaciones: enseñar sobre equidad y diversidad;Experiencia Docente;EXPDOC;Profesores;G1
+TC045Q18HB;Incluyendo el desarrollo profesional de los últimos 12 meses: enseñar sobre equidad y diversidad;Experiencia Docente;EXPDOC;Profesores;G1
+TC203Q01HA;Proporción de tu formación docente dedicada a: comprensión lectora;Experiencia Docente;EXPDOC;Profesores;G1
+TC203Q02HA;Proporción de tu formación docente dedicada a: pedagogía/didáctica de la comprensión lectora;Experiencia Docente;EXPDOC;Profesores;G1
+TC203Q03HA;Proporción de tu formación docente dedicada a: conocimientos generales de la pedagogía;Experiencia Docente;EXPDOC;Profesores;G1
+TC150Q01HA;En tu educación y/o  prácticas formal, ¿estudiaste: lengua castellana?;Experiencia Docente;EXPDOC;Profesores;G1
+TC150Q02HA;En tu educación y/o  prácticas formal, ¿estudiaste:  didáctica de la lengua castellana?;Experiencia Docente;EXPDOC;Profesores;G1
+TC150Q03HA;En tu educación y/o  prácticas formal, ¿estudiaste: educación física?;Experiencia Docente;EXPDOC;Profesores;G1
+TC150Q05HA;En tu educación y/o  prácticas formal, ¿estudiaste:  modelos teóricos y procesos de la comprensión lectura?;Experiencia Docente;EXPDOC;Profesores;G1
+TC150Q06HA;En tu educación y/o  prácticas formal, ¿estudiaste: educación especial?;Experiencia Docente;EXPDOC;Profesores;G1
+TC150Q07HA;En tu educación y/o  prácticas formal, ¿estudiaste: didáctica de la lengua castellana como segundo idioma (español para migrantes)?;Experiencia Docente;EXPDOC;Profesores;G1
+TC150Q08HA;En tu educación y/o  prácticas formal, ¿estudiaste: métodos de evaluación para la comprensión lectora?;Experiencia Docente;EXPDOC;Profesores;G1
+TC204Q01HA;Durante los últimos 12 meses, proporción de tu desarrollo profesional lo has dedicado a: ;Experiencia Docente;EXPDOC;Profesores;G1
+TC204Q02HA;Durante los últimos 12 meses, proporción de tu desarrollo profesional lo has dedicado a: ;Experiencia Docente;EXPDOC;Profesores;G1
+TC204Q03HA;Durante los últimos 12 meses, proporción de tu desarrollo profesional lo has dedicado a: ;Experiencia Docente;EXPDOC;Profesores;G1
+STTMG1;Superposición entre educación incial y el grado de enseñanza actual: lectura, escritura y literatura;Formación del profesorado;FORDOC;Profesores;G2
+STTMG2;Superposición entre educación incial y el grado de enseñanza actual: matemáticas;Formación del profesorado;FORDOC;Profesores;G2
+STTMG3;Superposición entre educación incial y el grado de enseñanza actual: ciencias;Formación del profesorado;FORDOC;Profesores;G2
+STTMG4;Superposición entre educación incial y el grado de enseñanza actual: tecnología;Formación del profesorado;FORDOC;Profesores;G2
+STTMG5;Superposición entre educación incial y el grado de enseñanza actual: ciencias sociales;Formación del profesorado;FORDOC;Profesores;G2
+STTMG6;Superposición entre educación incial y el grado de enseñanza actual: idiomas extranjeros modernos;Formación del profesorado;FORDOC;Profesores;G2
+STTMG7;Superposición entre educación inicial y el grado de enseñanza actual: lenguas clásicas;Formación del profesorado;FORDOC;Profesores;G2
+STTMG8;Superposición entre educación incial y el grado de enseñanza actual: arte;Formación del profesorado;FORDOC;Profesores;G2
+STTMG9;Superposición entre educación incial y el grado de enseñanza actual: educación física;Formación del profesorado;FORDOC;Profesores;G2
+STTMG10;Superposición entre educación incial y el grado de enseñanza actual: religión y/o ética;Formación del profesorado;FORDOC;Profesores;G2
+STTMG11;Superposición entre educación incial y el grado de enseñanza actual: prácticas y formación profesional;Formación del profesorado;FORDOC;Profesores;G2
+NTEACH1;Asignatura incluida en el programa de prácticas:lectura, escritura y literatura;Formación del profesorado;FORDOC;Profesores;G2
+NTEACH2;Asignatura incluida en el programa de prácticas: matemáticas;Formación del profesorado;FORDOC;Profesores;G2
+NTEACH3;Asignatura incluida en el programa de prácticas: ciencias;Formación del profesorado;FORDOC;Profesores;G2
+NTEACH4;Asignatura incluida en el programa de prácticas: tecnología;Formación del profesorado;FORDOC;Profesores;G2
+NTEACH5;Asignatura incluida en el programa de prácticas: ciencias sociales;Formación del profesorado;FORDOC;Profesores;G2
+NTEACH6;Asignatura incluida en el programa de prácticas:lenguas extranjeras modernas;Formación del profesorado;FORDOC;Profesores;G2
+NTEACH7;Asignatura incluida en el programa de prácticas: lenguas clásicas (por ejemplo, Latín);Formación del profesorado;FORDOC;Profesores;G2
+NTEACH8;Asignatura incluida en el programa de prácticas: Arte;Formación del profesorado;FORDOC;Profesores;G2
+NTEACH9;Asignatura incluida en el programa de prácticas: educación física;Formación del profesorado;FORDOC;Profesores;G2
+NTEACH10;Asignatura incluida en el programa de prácticas: religión y/o ética;Formación del profesorado;FORDOC;Profesores;G2
+NTEACH11;Asignatura incluida en el programa de prácticas: prácticas y formación profesional;Formación del profesorado;FORDOC;Profesores;G2
+TC054Q01NA;En relación a la evaluación del aprendizaje del alumnado, ¿con qué frecuencia: desarrollo y administro mi propia evaluación??;Implicación en la evaluación del alumnado;IMEVAL;Profesores;G2
+TC054Q02NA;En relación a la evaluación del aprendizaje del alumnado, ¿con qué frecuencia: administro evaluaciones estandarizadas?;Implicación en la evaluación del alumnado;IMEVAL;Profesores;G2
+TC054Q03NA;En relación a la evaluación del aprendizaje del alumnado, ¿con qué frecuencia: hago preguntas individuales al alumando en la clase?;Implicación en la evaluación del alumnado;IMEVAL;Profesores;G2
+TC054Q04NA;En relación a la evaluación del aprendizaje del alumnado, ¿con qué frecuencia: entrego feedback escrito al alumnado además de la nota?;Implicación en la evaluación del alumnado;IMEVAL;Profesores;G2
+TC054Q05NA;En relación a la evaluación del aprendizaje del alumnado, ¿con qué frecuencia: permito que el alumando juzgue su propio progreso?;Implicación en la evaluación del alumnado;IMEVAL;Profesores;G2
+TC054Q06NA;En relación a la evaluación del aprendizaje del alumnado, ¿con qué frecuencia: observo al alumando cuando están trabajando y les doy feedback inmediato?;Implicación en la evaluación del alumnado;IMEVAL;Profesores;G2
+TC054Q07NA;En relación a la evaluación del aprendizaje del alumnado, ¿con qué frecuencia: recojo datos de las tareas de clase o deberes?;Implicación en la evaluación del alumnado;IMEVAL;Profesores;G2
+TC192Q01HA;¿Con qué frecuencia en tus clases: cuento al alumando su rendimiento en mi curso?;Implicación en la evaluación del alumnado;IMEVAL;Profesores;G2
+TC192Q02HA;¿Con qué frecuencia en tus clases: doy feedback sobre sus fortalezas en mi clase?;Implicación en la evaluación del alumnado;IMEVAL;Profesores;G2
+TC192Q03HA;¿Con qué frecuencia en tus clases: comento al lumnado en que áreas aun pueden mejorar?;Implicación en la evaluación del alumnado;IMEVAL;Profesores;G2
+TC192Q04HA;¿Con qué frecuencia en tus clases: comento al alumnado como pueden mejorar su rendimiento?;Implicación en la evaluación del alumnado;IMEVAL;Profesores;G2
+TC192Q05HA;¿Con qué frecuencia en tus clases: aconsejo al alumando como pueden conseguir sus metas de aprendizaje?;Implicación en la evaluación del alumnado;IMEVAL;Profesores;G2
+TC163Q01HA;¿Cómo de importante consideras la enseñanza de las siguientes habilidades/capacidades en tus clases: habilidades relacionadas con la comprensión lectora;Importancia de las habilidades básicas en educación en su enseñannza;IMHAED;Profesores;G2
+TC163Q02HA;¿Cómo de importante consideras la enseñanza de las siguientes habilidades/capacidades en tus clases: habilidades relacionadas con la escritura;Importancia de las habilidades básicas en educación en su enseñannza;IMHAED;Profesores;G2
+TC163Q03HA;¿Cómo de importante consideras la enseñanza de las siguientes habilidades/capacidades en tus clases: habilidades relacionadas con la comprensión al escuchar;Importancia de las habilidades básicas en educación en su enseñannza;IMHAED;Profesores;G2
+TC163Q04HA;¿Cómo de importante consideras la enseñanza de las siguientes habilidades/capacidades en tus clases: habilidades relacionadas con la comunicación oral;Importancia de las habilidades básicas en educación en su enseñannza;IMHAED;Profesores;G2
+TC021Q01NA;¿Te han solicitado para participar en actividades de desarrollo profesional?;Interés por la docencia;INTDOC;Profesores;G2
+TC175Q01HA;¿Cuánto tiempo fuera de tu horario de clase destinas a leer sobre tu trabajo?;Interés por la docencia;INTDOC;Profesores;G2
+TC198Q01HA;De acuerdo: las ventajas de ser docentes claramente superan las de no serlo;Interés por la docencia;INTDOC;Profesores;G2
+TC198Q02HA;De acuerdo: si pudiera elegir de nuevo, volvería a elegir trabajar como docente;Interés por la docencia;INTDOC;Profesores;G2
+TC198Q03HA;De acuerdo: me gustaría cambiar a otro colegio si fuera popsible;Interés por la docencia;INTDOC;Profesores;G2
+TC198Q04HA;De acuerdo: me arrepiento de ser docente;Interés por la docencia;INTDOC;Profesores;G2
+TC198Q05HA;De acuerdo: me divierte trabajar en este colegio;Interés por la docencia;INTDOC;Profesores;G2
+TC198Q06HA;De acuerdo: me pregunto si me huviera ido mejor si hubiera escogido otra profesión;Interés por la docencia;INTDOC;Profesores;G2
+TC198Q07HA;De acuerdo: recomendaria mi colegio como un buen sitio para trabajar;Interés por la docencia;INTDOC;Profesores;G2
+TC198Q08HA;De acuerdo: creo que la docencia es valorada por la sociedad;Interés por la docencia;INTDOC;Profesores;G2
+TC198Q09HA;De acuerdo: estoy satisfecho/a con mi rendimiento en este colegio;Interés por la docencia;INTDOC;Profesores;G2
+TC198Q10HA;De acuerdo: Después de todo, me siento satisfecho/a con mi trabajo;Interés por la docencia;INTDOC;Profesores;G2
+TC152Q01HA;De acuerdo: todo el profesorado debería estar capacitado en comprensión lectora;Interés por la docencia;INTDOC;Profesores;G2
+TC152Q02HA;De acuerdo: todo el profesorado yiene responsabilidad en la mejora de la capacidad lectora de su alumnado;Interés por la docencia;INTDOC;Profesores;G2
+TC152Q03HA;De acuerdo: sé cómo diagnosticar problemas de comprensión lectora en el alumnado;Interés por la docencia;INTDOC;Profesores;G2
+TC152Q04HA;De acuerdo: me siento seguro/a en mi capacidad para enseñar estrategias de comprensión lectora;Interés por la docencia;INTDOC;Profesores;G2
+TC193Q01HA;Durante los últimos 12 meses, has participado en: cursos/talleres;Interés por la docencia;INTDOC;Profesores;G2
+TC193Q02HA;Durante los últimos 12 meses, has participado en: conferencias o seminarios de educación;Interés por la docencia;INTDOC;Profesores;G2
+TC193Q03HA;Durante los últimos 12 meses, has participado en: visitas para observar otros colegios;Interés por la docencia;INTDOC;Profesores;G2
+TC193Q04HA;Durante los últimos 12 meses, has participado en: visitas para observar empresas, organizaciones públicas, ...;Interés por la docencia;INTDOC;Profesores;G2
+TC193Q05HA;Durante los últimos 12 meses, has participado en: formación continua en empresas, organizaciones públicas;Interés por la docencia;INTDOC;Profesores;G2
+TC020Q01NA;Durante los últimos 12 meses, has participado en: programas de calificación (por ejemplo, programas de grado);Interés por la docencia;INTDOC;Profesores;G2
+TC020Q02NA;Durante los últimos 12 meses, has participado en: redes de docentes formados específicamente para...;Interés por la docencia;INTDOC;Profesores;G2
+TC020Q03NA;Durante los últimos 12 meses, has participado en: investigaciones individuales o colaborativas sobre temas de tu interés;Interés por la docencia;INTDOC;Profesores;G2
+TC020Q04NA;Durante los últimos 12 meses, has participado en: Monitoreo y/o observación de iguales y coaching, como parteformal de...;Interés por la docencia;INTDOC;Profesores;G2
+TC020Q05NA;Durante los últimos 12 meses, has participado en: lecturas profesionales (por ejemplo, periódicos, artículos científicos, ...);Interés por la docencia;INTDOC;Profesores;G2
+TC020Q06NA;Durante los últimos 12 meses, has participado en: diálogos informales con tus colegas de profesión sobre cómo mejorar tu enseñanza;Interés por la docencia;INTDOC;Profesores;G2
+TC046Q04NA;¿Con qué frecuencia: intercambias materiales didácticos con otros colegas profesionales?;Interés por la docencia;INTDOC;Profesores;G2
+TC046Q05NA;¿Con qué frecuencia: participas en discusiones/reuniones sobre el desarrollo del aprendizaje de alumnado específico?;Interés por la docencia;INTDOC;Profesores;G2
+TC046Q06NA;¿Con qué frecuencia: trabajas con otros docentes para asegurar estándares comunes de evaluación en los procesos de evaluación del alumnado?;Interés por la docencia;INTDOC;Profesores;G2
+TC046Q07NA;¿Con qué frecuencia: asistes a reuniones de equipo?;Interés por la docencia;INTDOC;Profesores;G2
+TC202Q01HA;¿Con qué frecuencia en tus clases de lengua castellana: adapto mi enseñanza para adaptarla a las necesidades de mi alumnado?;Utilización de metodologías centradas en el alumnado;MECENALU;Profesores;G3
+TC202Q02HA;¿Con qué frecuencia en tus clases de lengua castellana: facilito ayuda individualizada cuando un/a estudiante tiene dificultades de entendimiento...?;Utilización de metodologías centradas en el alumnado;MECENALU;Profesores;G3
+TC202Q03HA;¿Con qué frecuencia en tus clases de lengua castellana: cambio la estructura mis clases hacia temas en los que la mayoria del alumnado...?;Utilización de metodologías centradas en el alumnado;MECENALU;Profesores;G3
+TC202Q04HA;¿Con qué frecuencia en tus clases de lengua castellana: facilito apoyo individual al alumnado más avanzado?;Utilización de metodologías centradas en el alumnado;MECENALU;Profesores;G3
+TC202Q05HA;¿Con qué frecuencia en tus clases de lengua castellana: comento al alumnado cómo está su rendimiento en mi curso?;Utilización de metodologías centradas en el alumnado;MECENALU;Profesores;G3
+TC202Q06HA;¿Con qué frecuencia en tus clases de lengua castellana: doy feedback sobre sus fortalezas en mi curso?;Utilización de metodologías centradas en el alumnado;MECENALU;Profesores;G3
+TC202Q07HA;¿Con qué frecuencia en tus clases de lengua castellana: digo al alumando en qué áreas pueden mejorar?;Utilización de metodologías centradas en el alumnado;MECENALU;Profesores;G3
+TC202Q08HA;¿Con qué frecuencia en tus clases de lengua castellana: comento al alumnado como mejorar su rendimiento?;Utilización de metodologías centradas en el alumnado;MECENALU;Profesores;G3
+TC202Q09HA;¿Con qué frecuencia en tus clases de lengua castellana: aconsejo al alumnado con pueden alcanzar sus metas de aprendizaje?;Utilización de metodologías centradas en el alumnado;MECENALU;Profesores;G3
+TC171Q01HA;¿Con qué frecuencia en tus clases de lengua castellana: establezco metas claras para el proceso de aprendizaje del alumnado;Utilización de metodologías centradas en el alumnado;MECENALU;Profesores;G3
+TC171Q02HA;¿Con qué frecuencia en tus clases de lengua castellana: hago preguntas para chequear que el alumnado entiende lo que estoy enseñando?;Utilización de metodologías centradas en el alumnado;MECENALU;Profesores;G3
+TC171Q03HA;¿Con qué frecuencia en tus clases de lengua castellana: Al principio, presento un pequeño resumen de la lección anterior?;Utilización de metodologías centradas en el alumnado;MECENALU;Profesores;G3
+TC171Q04HA;¿Con qué frecuencia en tus clases de lengua castellana: comento al alumnado que tienen que aprender;Utilización de metodologías centradas en el alumnado;MECENALU;Profesores;G3
+TC156Q05IA;En tus clases de lengua castellana, ¿con qué frecuencia: has animado al alumando a que esprese su opinión sobre un texto?;Metodologías inclusivas para la comprensión lectora y el pensamiento crítico;MEINCLU;Profesores;G3
+TC156Q06IA;En tus clases de lengua castellana, ¿con qué frecuencia: has ayudado al alumnado para que relacionen las historias que están leyendo con su porpia vida?;Metodologías inclusivas para la comprensión lectora y el pensamiento crítico;MEINCLU;Profesores;G3
+TC156Q07IA;En tus clases de lengua castellana, ¿con qué frecuencia: has enseñado al alumnado como se construye la información en texto en los que ellos...?;Metodologías inclusivas para la comprensión lectora y el pensamiento crítico;MEINCLU;Profesores;G3
+TC156Q08IA;En tus clases de lengua castellana, ¿con qué frecuencia: favorecido preguntas para motivar la participación activa del alumnado?;Metodologías inclusivas para la comprensión lectora y el pensamiento crítico;MEINCLU;Profesores;G3
+TC157Q02HA;¿Con qué frecuencia preguntas a tu alumnado que: identifique las principales ideas de lo que están leyendo?;Metodologías inclusivas para la comprensión lectora y el pensamiento crítico;MEINCLU;Profesores;G3
+TC157Q03HA;¿Con qué frecuencia preguntas a tu alumnado que: expliquen o apoyen lo que han entendido de lo que estaban leyendo?;Metodologías inclusivas para la comprensión lectora y el pensamiento crítico;MEINCLU;Profesores;G3
+TC157Q07HA;¿Con qué frecuencia preguntas a tu alumnado que: saquen inferencias de lo que han leído?;Metodologías inclusivas para la comprensión lectora y el pensamiento crítico;MEINCLU;Profesores;G3
+TC157Q08HA;¿Con qué frecuencia preguntas a tu alumnado que: describan el estilo o la estructura del texto que han leído?;Metodologías inclusivas para la comprensión lectora y el pensamiento crítico;MEINCLU;Profesores;G3
+TC157Q09HA;¿Con qué frecuencia preguntas a tu alumnado que: determinen la perspectiva u objetivo del autor?;Metodologías inclusivas para la comprensión lectora y el pensamiento crítico;MEINCLU;Profesores;G3
+TC169Q01HA;En este curso escolar, ¿con qué frecuencia has usado para enseñar: software de tutorias o programas de prácticas?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC169Q02HA;En este curso escolar, ¿con qué frecuencia has usado para enseñar: juegos de aprendizaje digitales?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC169Q03HA;En este curso escolar, ¿con qué frecuencia has usado para enseñar: procesadores de texto o software para presentaciones ?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC169Q04HA;En este curso escolar, ¿con qué frecuencia has usado para enseñar: hojas de cáculo (por jemplo, Microsoft Excel)?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC169Q05HA;En este curso escolar, ¿con qué frecuencia has usado para enseñar:  herramientas de producción multimedia?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC169Q06HA;En este curso escolar, ¿con qué frecuencia has usado para enseñar: sofware de mapas conceptuales (por ejemplo Inspiration, Webspiration?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC169Q07HA;En este curso escolar, ¿con qué frecuencia has usado para enseñar: herramientas de monitoreo o registro de datos?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC169Q08HA;En este curso escolar, ¿con qué frecuencia has usado para enseñar: sofware de simulación o modelaje?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC169Q09HA;En este curso escolar, ¿con qué frecuencia has usado para enseñar: redes sociales (por ejemplo, Facebook, Twitter);Metodologías basadas en las TIC;METICD;Profesores;G3
+TC169Q10HA;En este curso escolar, ¿con qué frecuencia has usado para enseñar: sofware para comunicarse (por ejemplo, e-mail, blog);Metodologías basadas en las TIC;METICD;Profesores;G3
+TC169Q11HA;En este curso escolar, ¿con qué frecuencia has usado para enseñar: recursos de información basados en el ordenador?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC169Q12HA;En este curso escolar, ¿con qué frecuencia has usado para enseñar: recursos de aprendizaje digital interactivo (por ejemplo, objetos de enseñanza)?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC169Q13HA;En este curso escolar, ¿con qué frecuencia has usado para enseñar: software para hacer gráficos y dibujar?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC169Q14HA;En este curso escolar, ¿con qué frecuencia has usado para enseñar: Portafolios digitales?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC168Q01HA;Durante el último mes, ¿has pedido al alumnado que usen dispositivos digitales para: buscar información online sobre una temática?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC168Q02HA;Durante el último mes, ¿has pedido al alumnado que usen dispositivos digitales para: trabajos de larga duración (por ejemplo, durante varias semanas)?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC168Q03HA;Durante el último mes, ¿has pedido al alumnado que usen dispositivos digitales para: tareas cortas (por ejemplo dentro de la misma semana)?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC168Q04HA;Durante el último mes, ¿has pedido al alumnado que usen dispositivos digitales para: trabajar a su propio ritmo?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC168Q05HA;Durante el último mes, ¿has pedido al alumnado que usen dispositivos digitales para: trabajar con material individualizado?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC168Q06HA;Durante el último mes, ¿has pedido al alumnado que usen dispositivos digitales para: planificar sus propias activades de enseñanza?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC168Q07HA;Durante el último mes, ¿has pedido al alumnado que usen dispositivos digitales para: para deberes o trabajos escolares?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC168Q08HA;Durante el último mes, ¿has pedido al alumnado que usen dispositivos digitales para: prácticaso entrenamientos?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC168Q09HA;Durante el último mes, ¿has pedido al alumnado que usen dispositivos digitales para: coordinarse con otros estudiantes en trabajos de clase?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC168Q10HA;Durante el último mes, ¿has pedido al alumnado que usen dispositivos digitales para: seguir las clases o materiales perdidas?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC168Q11HA;Durante el último mes, ¿has pedido al alumnado que usen dispositivos digitales para: leer textos en dispositivos electrónicos en vez de en versiones de papel?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC168Q12HA;Durante el último mes, ¿has pedido al alumnado que usen dispositivos digitales para: escribir un texto en un blog o una wiki?;Metodologías basadas en las TIC;METICD;Profesores;G3
+TC185Q01HA;Necesidades actuales para tu desarrollo profesional: conocimientos y entendimiento sobre el campo de mi(s) asignatura(s);Necesidades formativas;NECEFOR;Profesores;G3
+TC185Q02HA;Necesidades actuales para tu desarrollo profesional: competencias pedagógicas en la enseñanza de mi(s) asignatura(s);Necesidades formativas;NECEFOR;Profesores;G3
+TC185Q03HA;Necesidades actuales para tu desarrollo profesional: conocimiento del currículo;Necesidades formativas;NECEFOR;Profesores;G3
+TC185Q04HA;Necesidades actuales para tu desarrollo profesional: prácticas de evaluación al alumnado;Necesidades formativas;NECEFOR;Profesores;G3
+TC185Q05HA;Necesidades actuales para tu desarrollo profesional: habilidades TIC para la enseñanza;Necesidades formativas;NECEFOR;Profesores;G3
+TC185Q06HA;Necesidades actuales para tu desarrollo profesional: compartamiento del alumnado y gestión del aula;Necesidades formativas;NECEFOR;Profesores;G3
+TC185Q07HA;Necesidades actuales para tu desarrollo profesional: gestión y administración escolar;Necesidades formativas;NECEFOR;Profesores;G3
+TC185Q08HA;Necesidades actuales para tu desarrollo profesional: enfoques de aprendizaje individualizado;Necesidades formativas;NECEFOR;Profesores;G3
+TC185Q09HA;Necesidades actuales para tu desarrollo profesional: enseñanza de alumando con necesidades educativas específicas;Necesidades formativas;NECEFOR;Profesores;G3
+TC185Q10HA;Necesidades actuales para tu desarrollo profesional: enseñanza en entornos multiculturales o multilingües;Necesidades formativas;NECEFOR;Profesores;G3
+TC185Q11HA;Necesidades actuales para tu desarrollo profesional: enseñanza de capacidades transversales (por ejemplo, resolución de conflictos, aprender a aprender);Necesidades formativas;NECEFOR;Profesores;G3
+TC185Q12HA;Necesidades actuales para tu desarrollo profesional: orientación educativa y monitoreo del alumnado;Necesidades formativas;NECEFOR;Profesores;G3
+TC185Q13HA;Necesidades actuales para tu desarrollo profesional: evaluación interna o autoevaluación de los colegios;Necesidades formativas;NECEFOR;Profesores;G3
+TC185Q14HA;Necesidades actuales para tu desarrollo profesional: uso de los resultados de evaluación;Necesidades formativas;NECEFOR;Profesores;G3
+TC185Q15HA;Necesidades actuales para tu desarrollo profesional: cooperación entre docentes y familias;Necesidades formativas;NECEFOR;Profesores;G3
+TC185Q16HA;Necesidades actuales para tu desarrollo profesional: enseñanza de una segunda lengua;Necesidades formativas;NECEFOR;Profesores;G3
+TC185Q17HA;Necesidades actuales para tu desarrollo profesional: comunicación con personas de diferentes culturas o países;Necesidades formativas;NECEFOR;Profesores;G3
+TC185Q18HA;Necesidades actuales para tu desarrollo profesional: enseñanza sobre equidad y diversidad;Necesidades formativas;NECEFOR;Profesores;G3
+TC196Q02HA;De acuerdo:  los/as menores migrantes deben tener las mismas oportunidades educativas que otros menores en ese país;Opinión sobre derechos de las personas migrantes;OPIMIGR;Profesores;G3
+TC196Q03HA;De acuerdo: los migrantes que viven un país durante varios años deben tener la oportunidad de votar en las elecciones;Opinión sobre derechos de las personas migrantes;OPIMIGR;Profesores;G3
+TC196Q04HA;De acuerdo: los migrantes deben tener la oportunidad de continuar con sus costumbres y modo de vida;Opinión sobre derechos de las personas migrantes;OPIMIGR;Profesores;G3
+TC196Q05HA;De acuerdo: los migrantes deben tener los mismos derechos que cualquier otra persona en ese país;Opinión sobre derechos de las personas migrantes;OPIMIGR;Profesores;G3
+TC043Q01NA;¿Los padres están informados sobre la disponibilidad y contenido del currículo de lengua castellana?;Participación de las familias en aspectos curriculares;PARTIFAM;Profesores;G3
+TC028Q01NA;El proceso de enseñanza en el colegio se ve obstaculizada por: falta de profesorado;Percepción de las dificultades en la enseñanza;PERDIEN;Profesores;G3
+TC028Q02NA;El proceso de enseñanza en el colegio se ve obstaculizada por: inadecuada o pobre cualificación del personal docente;Percepción de las dificultades en la enseñanza;PERDIEN;Profesores;G3
+TC028Q03NA;El proceso de enseñanza en el colegio se ve obstaculizada por: falta de personal administrativo;Percepción de las dificultades en la enseñanza;PERDIEN;Profesores;G3
+TC028Q04NA;El proceso de enseñanza en el colegio se ve obstaculizada por: inadecuada o pobre cualificación del personal administrativo;Percepción de las dificultades en la enseñanza;PERDIEN;Profesores;G3
+TC028Q05NA;El proceso de enseñanza en el colegio se ve obstaculizada por: falta de materiales didácticos;Percepción de las dificultades en la enseñanza;PERDIEN;Profesores;G3
+TC028Q06NA;El proceso de enseñanza en el colegio se ve obstaculizada por: inadecuada o pobre calidad de los materiales didácticos;Percepción de las dificultades en la enseñanza;PERDIEN;Profesores;G3
+TC028Q07NA;El proceso de enseñanza en el colegio se ve obstaculizada por: falta de infraestructura física;Percepción de las dificultades en la enseñanza;PERDIEN;Profesores;G3
+TC028Q08NA;El proceso de enseñanza en el colegio se ve obstaculizada por:  inadecuada o pobre calidad de la infraestructura física;Percepción de las dificultades en la enseñanza;PERDIEN;Profesores;G3
+TC207Q01HA;En tus clases, ¿tienes la oportunidad de promover las siguientes capacidades: comunicarse con personas de diferentes culturas?;Promover la diversidad cultural;PRODICUL;Profesores;G3
+TC207Q02HA;En tus clases, ¿tienes la oportunidad de promover las siguientes capacidades: conocimiento de otras culturas?;Promover la diversidad cultural;PRODICUL;Profesores;G3
+TC207Q03HA;En tus clases, ¿tienes la oportunidad de promover las siguientes capacidades: apertura hacia las personas de otros bagajes culturales?;Promover la diversidad cultural;PRODICUL;Profesores;G3
+TC207Q04HA;En tus clases, ¿tienes la oportunidad de promover las siguientes capacidades: respeto por la diversidad cultural?;Promover la diversidad cultural;PRODICUL;Profesores;G3
+TC207Q05HA;En tus clases, ¿tienes la oportunidad de promover las siguientes capacidades: idiomas extranjeros?;Promover la diversidad cultural;PRODICUL;Profesores;G3
+TC182Q01HA;¿En tu colegio hay programas especiales para: alumnado con necesidades educativas específicas?;Programas para la diversidad;PRODIV;Profesores;G3
+TC182Q02HA;¿En tu colegio hay programas especiales para: estudiantes cuya lengua materna es diferente a la lengua castellana?;Programas para la diversidad;PRODIV;Profesores;G3
+TC182Q03HA;¿En tu colegio hay programas especiales para: estudiantes con problemas con la lectura?;Programas para la diversidad;PRODIV;Profesores;G3
+TC207Q06HA;En tus clases, ¿tienes la oportunidad de promover las siguientes capacidades: capacidad de pensamiento crítico?;Promover el pensamiento crítico hacia problemas globales;PROGLOD;Profesores;G3
+TC178Q01HA;En tus clases, ¿Incluyes tematicas de: cambio climático y calentamiento global?;Promover el pensamiento crítico hacia problemas globales;PROGLOD;Profesores;G3
+TC178Q02HA;En tus clases, ¿Incluyes temáticas de: salud global (por ejemplo, epidemias)?;Promover el pensamiento crítico hacia problemas globales;PROGLOD;Profesores;G3
+TC178Q04HA;En tus clases, ¿Incluyes temáticas de: migraciones (movimientos de las personas)?;Promover el pensamiento crítico hacia problemas globales;PROGLOD;Profesores;G3
+TC178Q07HA;En tus clases, ¿Incluyes temáticas de: conflictos internacionales?;Promover el pensamiento crítico hacia problemas globales;PROGLOD;Profesores;G3
+TC178Q08HA;En tus clases, ¿Incluyes temáticas de: hambre o malnutrición en diferentes partes del mundo?;Promover el pensamiento crítico hacia problemas globales;PROGLOD;Profesores;G3
+TC178Q09HA;En tus clases, ¿Incluyes temáticas de: causas de la pobreza?;Promover el pensamiento crítico hacia problemas globales;PROGLOD;Profesores;G3
+TC178Q12HA;En tus clases, ¿Incluyes temáticas de: igualdad entre hombres y mujeres en diferentes partes del mundo?;Promover el pensamiento crítico hacia problemas globales;PROGLOD;Profesores;G3
+TC206Q01HA;En tu educación y prácticas como docente: ¿has recibido formación sobre comunicación intercultural?;Soft skills adquiridas en su formación;SSKILL;Profesores;G3
+TC206Q02HA;En tu educación y prácticas como docente: ?has recibido formación sobre estrategias de resolución de conflictos?;Soft skills adquiridas en su formación;SSKILL;Profesores;G3
+TC206Q03HA;En tu educación y prácticas como docente: ¿has recbido formación sobre el role que la educación puede jugar en la confrontación de...? ;Soft skills adquiridas en su formación;SSKILL;Profesores;G3
+TC206Q04HA;En tu educación y prácticas como docente: ¿has estudiado enfoques y técnicas de enseñanza que respondan a aspectos culturales?;Soft skills adquiridas en su formación;SSKILL;Profesores;G3
+TC206Q05HA;En tu educación y prácticas como docente: ¿has recibido formación sobre la enseñanza en clases multiculturales?;Soft skills adquiridas en su formación;SSKILL;Profesores;G3
+TC002Q01NA;¿Cuántos años tienes?;¿Cuántos años tienes?;TC002Q01NA;Profesores;G3
+TC184Q01HA;¿Tu colegio tiene alguna política/estrategia en el uso de dispositivos electrónicos en la enseñanza?;Inclusión de las TIC en el aula;TICAU;Profesores;G3
+TC176Q01HA;¿Con qué frecuencia incluyes: lectura de correos electrónicos?;Inclusión de las TIC en el aula;TICAU;Profesores;G3
+TC176Q02HA;¿Con qué frecuencia incluyes: chat on line (por ejemplo, Whatsapp, Messenger)?;Inclusión de las TIC en el aula;TICAU;Profesores;G3
+TC176Q03HA;¿Con qué frecuencia incluyes: lectura de noticias/periodicos digitales?;Inclusión de las TIC en el aula;TICAU;Profesores;G3
+TC176Q05HA;¿Con qué frecuencia incluyes: búsqueda de información online sobre algún tema concreto?;Inclusión de las TIC en el aula;TICAU;Profesores;G3
+TC176Q06HA;¿Con qué frecuencia incluyes: participar en grupos de discusión o foros digitales?;Inclusión de las TIC en el aula;TICAU;Profesores;G3
+TC176Q07HA;¿Con qué frecuencia incluyes: búsqueda de información práctica online (por ejemplo, horarios, eventos, consejos, recetas)?;Inclusión de las TIC en el aula;TICAU;Profesores;G3
+TC007Q01NA;¿Cuántos años de de experiencia laboral tienes? Año(s) trabajados como docente en este colegio;Tiempo Experiencia;TIEXP;Profesores;G3
+TC007Q02NA;¿Cuántos años de de experiencia laboral tienes? Año(s) trabajados como docente en total;Tiempo Experiencia;TIEXP;Profesores;G3
+TC031Q04NA;Cooperación entre docentes: discutimos sobre los requisitos de  rendimiento al establecer las evaluaciones;Trabajo colaborativo con otros docentes ;TRACOLDO;Profesores;G3
+TC031Q11NA;Cooperación entre docentes: discutimos sobre los criterios a usar en las evaluaciones por escrito de este curso;Trabajo colaborativo con otros docentes ;TRACOLDO;Profesores;G3
+TC031Q13NA;Cooperación entre docentes: intercambiamos tareas para las lecciones y deberes que cubren diferentes rangos de niveles de dificultad;Trabajo colaborativo con otros docentes ;TRACOLDO;Profesores;G3
+TC031Q14NA;Cooperación entre docentes: preparo unidades didácticas con mis colegas de lengua castellana;Trabajo colaborativo con otros docentes ;TRACOLDO;Profesores;G3
+TC031Q15NA;Cooperación entre docentes: discutimos sobre las maneras de enseñar tecnicas y estrategias de aprendizaje al alumnado;Trabajo colaborativo con otros docentes ;TRACOLDO;Profesores;G3
+TC031Q18NA;Cooperación entre docentes:  mis compañeros docentes de se benefician de mis habilidades e intereses específicos;Trabajo colaborativo con otros docentes ;TRACOLDO;Profesores;G3
+TC031Q20NA;Cooperación entre docentes: discutimos sobre las mejores maneras de identificar las fortalezas y debilidades del alumnado a nivel individual;Trabajo colaborativo con otros docentes ;TRACOLDO;Profesores;G3
+TC155Q02HA;En tus clases, ¿con que frecuencia enseñas: estrategias para resumir?;Utilización de estrategias de análisis y comprensión lectora ;UTLECCA;Profesores;G3
+TC155Q03HA;En tus clases, ¿con que frecuencia enseñas: conectar textos con el aprendizaje previo?;Utilización de estrategias de análisis y comprensión lectora ;UTLECCA;Profesores;G3
+TC155Q04HA;En tus clases, ¿con que frecuencia enseñas: monitoreo de la comprensión?;Utilización de estrategias de análisis y comprensión lectora ;UTLECCA;Profesores;G3
+TC155Q05HA;En tus clases, ¿con que frecuencia enseñas: adaptaciones en el modo de leer dependiendo del objetivo de la lectura?;Utilización de estrategias de análisis y comprensión lectora ;UTLECCA;Profesores;G3
+TC155Q06HA;En tus clases, ¿con que frecuencia enseñas: evaluar la credibilidad de la información disponible en Internet?;Utilización de estrategias de análisis y comprensión lectora en internet;UTLECIN;Profesores;G3
+TC155Q07HA;En tus clases, ¿con que frecuencia enseñas: buscar y seleccionar información relevante en Internet?;Utilización de estrategias de análisis y comprensión lectora en internet;UTLECIN;Profesores;G3
+TC166Q01HA;"En tus clases, ¿alguna vez has enseñado:  cómo usar palabras claves cuando se están usando buscadores como ""Google"" ""Yahoo"", etc?";Utilización de estrategias de análisis y comprensión lectora en internet;UTLECIN;Profesores;G3
+TC166Q02HA;En tus clases, ¿alguna vez has enseñado: cómo decidir si puedes confiar en la información de Internet?;Utilización de estrategias de análisis y comprensión lectora en internet;UTLECIN;Profesores;G3
+TC166Q03HA;En tus clases, ¿alguna vez has enseñado:  cómo comparar diferentes páginas web y decidir que información es más...;Utilización de estrategias de análisis y comprensión lectora en internet;UTLECIN;Profesores;G3
+TC166Q04HA;En tus clases, ¿alguna vez has enseñado: entender las consecuencias de publicar información...;Utilización de estrategias de análisis y comprensión lectora en internet;UTLECIN;Profesores;G3
+TC166Q05HA;En tus clases, ¿alguna vez has enseñado:  cómo usar la breve descripción debajo de los enlaces en la lista de resultados de ..?;Utilización de estrategias de análisis y comprensión lectora en internet;UTLECIN;Profesores;G3
+TC166Q06HA;En tus clases, ¿alguna vez has enseñado:  cómo detectar si la información es subjetiva o sesgada?;Utilización de estrategias de análisis y comprensión lectora en internet;UTLECIN;Profesores;G3
+TC166Q07HA;En tus clases, ¿alguna vez has enseñado: cómo detectar alguna estafa en Internet o correos electrónicos no deseados?;Utilización de estrategias de análisis y comprensión lectora en internet;UTLECIN;Profesores;G3

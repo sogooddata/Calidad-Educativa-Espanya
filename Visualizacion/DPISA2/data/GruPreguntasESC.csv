@@ -1,0 +1,160 @@
+﻿Codigo;Descripcion;DescripcionGrupo;CodigoGrupo;Cuestionario;CodigoGrupo2
+SC042Q01TA;Políticas educativas:  el alumando está agrupado por sus habilidades en diferentes clases;Agrupación del alumnado;SC042Q01TA;Escuelas;G1
+SC001Q01TA;¿Cúal de las siguientes definiciones describe mejor la comunidad en donde se encuentra tu centro educativo?;¿Cúal de las siguientes definiciones describe mejor la comunidad en donde se encuentra tu centro educativo?;SC001Q01TA;Escuelas;G1
+SC042Q02TA;Políticas educativas:  el alumando está agrupado por sus habilidades en sus clases;Agrupación del alumnado;SC042Q02TA;Escuelas;G1
+SC167Q06HA;Currículo de lo siguiente (para alumnado de 15 años): capacidad de pensamiento crítico;Enseñanza de soft skills-pensamiento crítico;SOFTSKILL;Escuelas;G1
+SC018Q05NA01;Profesores/as con una diplomatura: a tiempo completo;Formación del profesorado;FORPRO;Escuelas;G1
+SC018Q05NA02;Profesores/as con una diplomatura: a tiempo parcial;Formación del profesorado;FORPRO;Escuelas;G1
+SC018Q06NA01;Profesores/as con un master: a tiempo completo;Formación del profesorado;FORPRO;Escuelas;G1
+SC018Q06NA02;Profesores/as con un máster: a tiempo parcial;Formación del profesorado;FORPRO;Escuelas;G1
+SC018Q07NA01;Profesores/as con una licenciatura: a tiempo completo;Formación del profesorado;FORPRO;Escuelas;G1
+SC018Q07NA02;Profesores/as con una licenciatura: a timepo parcial;Formación del profesorado;FORPRO;Escuelas;G1
+SC025Q01NA;Durantes los últimos tres meses, ¿cuál es el porcentaje de profesores que asisten a programas de desarrollo profesional (formación continúa)?;Formación del profesorado;FORPRO;Escuelas;G1
+PROATCE;Proporción de todo el profesorado totalmente certificados;Formación del profesorado;FORPRO;Escuelas;G1
+PROAT5AB;Proporción del profesorado con Diplomatura;Formación del profesorado;FORPRO;Escuelas;G1
+PROAT5AM;Proporción del profesorado con Máster;Formación del profesorado;FORPRO;Escuelas;G1
+PROAT6;Proporción del profesorado con Licenciatura;Formación del profesorado;FORPRO;Escuelas;G1
+SC037Q01TA;Garantía de calidad del colegio: Evaluación interna;Garantía de calidad del colegio;GARCOLE;Escuelas;G1
+SC037Q02TA;Garantía de calidad del colegio: evaluación externa;Garantía de calidad del colegio;GARCOLE;Escuelas;G1
+SC037Q03TA;Garantía de calidad del colegio: informe específico sobre el currículo escolar y los objetivos educativos;Garantía de calidad del colegio;GARCOLE;Escuelas;G1
+SC037Q04TA;Garantía de calidad del colegio: informe específico sobre los criterior de rendimiento del alumnado;Garantía de calidad del colegio;GARCOLE;Escuelas;G1
+SC037Q05NA;Garantía de calidad del colegio: registro sistematizado de los datos de asistencia y desarrollo profesional;Garantía de calidad del colegio;GARCOLE;Escuelas;G1
+SC037Q06NA;Garantía de calidad del colegio: registro sistematizado de los resultados de las evaluaciones del alumnado y sus calificaciones al graduarse;Garantía de calidad del colegio;GARCOLE;Escuelas;G1
+SC037Q07TA;Garantía de calidad del colegio: búsqueda del feedback por escrito del alumnado (por ejemplo, sobre las clases, el profesorado o los recursos);Garantía de calidad del colegio;GARCOLE;Escuelas;G1
+SC037Q08TA;Garantía de calidad del colegio: profesores-tutores;Garantía de calidad del colegio;GARCOLE;Escuelas;G1
+SC037Q09TA;Garantía de calidad del colegio: consultas periódicas destinadas a la mejora del colegio durante un período de al menos seis meses;Garantía de calidad del colegio;GARCOLE;Escuelas;G1
+SC037Q10NA;Garantía de calidad del colegio: implementación de políticas estandarizadas para la comprensión lectora;Garantía de calidad del colegio;GARCOLE;Escuelas;G1
+SC064Q01TA;Proporción de padres: se reúnen para discutir sobre el progreso de sus hijos/as con el profesor por propia iniciativa;Grado de participación/implicación de las familias;GRAFAMI;Escuelas;G1
+SC064Q02TA;Proporción de padres: se reúnen para discutir sobre el progreso de sus hijos/as con el profesor por iniciativa de éste;Grado de participación/implicación de las familias;GRAFAMI;Escuelas;G1
+SC064Q03TA;Proporción de padres: participan en el consejo escolar ;Grado de participación/implicación de las familias;GRAFAMI;Escuelas;G1
+SC064Q04NA;Proporción de padres: hacen voluntariado presencial o participan en actividades extracurriculares;Grado de participación/implicación de las familias;GRAFAMI;Escuelas;G1
+SC018Q01TA01;Profesores/as en total: a tiempo completo;Horario del profesorado;HORPRO;Escuelas;G1
+SC018Q01TA02;Profesores/as en total: a tiempo parcial;Horario del profesorado;HORPRO;Escuelas;G1
+SC018Q02TA01;Profesores/as en total: a tiempo completo;Horario del profesorado;HORPRO;Escuelas;G1
+SC018Q02TA02;Profesores/as en total: a tiempo parcial;Horario del profesorado;HORPRO;Escuelas;G1
+SC017Q02NA;La enseñanza en el colegio está obstucalizado por: inadecuada o pobre cualificación del profesorado;Identificación de las dificultades en el centro educativo por falta de preparación;DIFPREPA;Escuelas;G1
+SC017Q04NA;La enseñanza en el colegio está obstucalizado por: inadecuada o pobre cualificación del personal administrativo;Identificación de las dificultades en el centro educativo por falta de preparación;DIFPREPA;Escuelas;G1
+SC017Q06NA;La enseñanza en el colegio está obstucalizado por: inadecuado o pobre calidad del material educativo;Identificación de las dificultades en el centro educativo por falta de preparación;DIFPREPA;Escuelas;G1
+SC017Q08NA;La enseñanza en el colegio está obstucalizado por: inadecuada o pobre indraestructura;Identificación de las dificultades en el centro educativo por falta de preparación;DIFPREPA;Escuelas;G1
+SC017Q01NA;La enseñanza en el colegio está obstucalizado por: falta de profesorado;Identificación de las dificultades en el centro educativo por presupuesto;DIFPRESU;Escuelas;G1
+SC017Q03NA;La enseñanza en el colegio está obstucalizado por: falta de personal administrativo;Identificación de las dificultades en el centro educativo por presupuesto;DIFPRESU;Escuelas;G1
+SC017Q05NA;La enseñanza en el colegio está obstucalizado por: falta de material educativo;Identificación de las dificultades en el centro educativo por presupuesto;DIFPRESU;Escuelas;G1
+SC017Q07NA;La enseñanza en el colegio está obstucalizado por: falta de infraestructura;Identificación de las dificultades en el centro educativo por presupuesto;DIFPRESU;Escuelas;G1
+SC158Q01HA;Currículo formal en (alumnado de 15 años): cambio climático y calentamiento global;Inclusión de problemas globales en el currículo;PROGLO;Escuelas;G1
+SC158Q02HA;Currículo formal en (alumnado de 15 años): Salud global (por ejemplo, epidemias);Inclusión de problemas globales en el currículo;PROGLO;Escuelas;G1
+SC158Q04HA;Currículo formal en (alumnado de 15 años): migración (movimientos de las personas);Inclusión de problemas globales en el currículo;PROGLO;Escuelas;G1
+SC158Q07HA;Currículo formal en (alumnado de 15 años): conflictos internacionales;Inclusión de problemas globales en el currículo;PROGLO;Escuelas;G1
+SC158Q08HA;Currículo formal en (alumnado de 15 años): hambre o malnutrición en diferentes partes del mundo;Inclusión de problemas globales en el currículo;PROGLO;Escuelas;G1
+SC158Q09HA;Currículo formal en (alumnado de 15 años): causas de la pobreza;Inclusión de problemas globales en el currículo;PROGLO;Escuelas;G1
+SC158Q12HA;Currículo formal en (alumnado de 15 años): igualdad entre hombres y mujeres en el mundo;Inclusión de problemas globales en el currículo;PROGLO;Escuelas;G1
+SC011Q01TA;¿Cuál de las siguientes afirmaciones describen mejor la escolarización disponible del alumnado en tu localización?;Nivel de escolarización;SC011Q01TA;Escuelas;G2
+SC053Q01TA;En este año académico, las actividades ofrecidas al alumnado de 3º ESO son: banda, orquesta o coro;Oferta de actividades extracurriculares;CREACTIV;Escuelas;G2
+SC053Q02TA;En este año académico, las actividades ofrecidas al alumnado de 3º ESO son: teatro escolar o musical escolar;Oferta de actividades extracurriculares;CREACTIV;Escuelas;G2
+SC053Q03TA;En este año académico, las actividades ofrecidas al alumnado de 3º ESO son: anuario escolar, periódico, ...;Oferta de actividades extracurriculares;CREACTIV;Escuelas;G2
+SC053Q04TA;En este año académico, las actividades ofrecidas al alumnado de 3º ESO son: voluntariadp;Oferta de actividades extracurriculares;CREACTIV;Escuelas;G2
+SC053Q12IA;En este año académico, las actividades ofrecidas al alumnado de 3º ESO son: club de lectura;Oferta de actividades extracurriculares;CREACTIV;Escuelas;G2
+SC053Q13IA;En este año académico, las actividades ofrecidas al alumnado de 3º ESO son: club de debate;Oferta de actividades extracurriculares;CREACTIV;Escuelas;G2
+SC053Q09TA;En este año académico, las actividades ofrecidas al alumnado de 3º ESO son: club de arte o actividades de arte;Oferta de actividades extracurriculares;CREACTIV;Escuelas;G2
+SC053Q10TA;En este año académico, las actividades ofrecidas al alumnado de 3º ESO son: equipo deportivo;Oferta de actividades extracurriculares;CREACTIV;Escuelas;G2
+SC053Q14IA;En este año académico, las actividades ofrecidas al alumnado de 3º ESO son: lectura y/o seminarios;Oferta de actividades extracurriculares;CREACTIV;Escuelas;G2
+SC053Q15IA;En este año académico, las actividades ofrecidas al alumnado de 3º ESO son: colaboraciones con librerias locales;Oferta de actividades extracurriculares;CREACTIV;Escuelas;G2
+CREACTIV;Actividades extraescolares;Oferta de actividades extracurriculares;CREACTIV;Escuelas;G2
+SC053Q16IA;En este año académico, las actividades ofrecidas al alumnado de 3º ESO son: colaboraciones con periódicos locales;Oferta de actividades extracurriculares;CREACTIV;Escuelas;G2
+SC161Q01SA;Principal responsabilidad de la orientación educativa en el colegio: no aplicable, no existe en el colegio;Orientación educativa;ORIEDU;Escuelas;G2
+SC161Q02SA;Principal responsabilidad de la orientación educativa en el colegio: todo el profesorado tiene responsabilidad en la orientación educativa;Orientación educativa;ORIEDU;Escuelas;G2
+SC161Q03SA;Principal responsabilidad de la orientación educativa en el colegio: profesorado específico tiene la principal responsabilidad de la orientación educativa;Orientación educativa;ORIEDU;Escuelas;G2
+SC161Q04SA;Principal responsabilidad de la orientación educativa en el colegio: tenemos orientadores educativos contratados en el colegio;Orientación educativa;ORIEDU;Escuelas;G2
+SC161Q05SA;Principal responsabilidad de la orientación educativa en el colegio: tenemos orientadores educativos que visitan habitualmente el colegio;Orientación educativa;ORIEDU;Escuelas;G2
+SC162Q01SA;Si hay departamento de orientación en tu colegio, ¿cuál de las siguientes afirmaciones describen mejor la situación para...?;Orientación educativa;ORIEDU;Escuelas;G2
+RATCMP1;Número de ordenadores por estudiante;Penetración tecnológica en el centro;TECCEN;Escuelas;G2
+RATCMP2;Proporción de ordenadores disponibles que están conectados a Internet;Penetración tecnológica en el centro;TECCEN;Escuelas;G2
+SC155Q01HA;Capacidad del colegio en el uso de dispositivos digitales: el número de dispositivos digitales conectados a Internet es suficiente;Penetración tecnológica en el centro;TECCEN;Escuelas;G2
+SC155Q02HA;Capacidad del colegio en el uso de dispositivos digitales: la banda de internet o la velocidad de internet en el colegio es suficiente;Penetración tecnológica en el centro;TECCEN;Escuelas;G2
+SC155Q03HA;Capacidad del colegio en el uso de dispositivos digitales: el número de dispositivos digitales para la enseñanza es suficiente;Penetración tecnológica en el centro;TECCEN;Escuelas;G2
+SC155Q04HA;Capacidad del colegio en el uso de dispositivos digitales: los dispositivos digitales son suficientemente poderosos en términos de capacidad informática;Penetración tecnológica en el centro;TECCEN;Escuelas;G2
+SC155Q05HA;Capacidad del colegio en el uso de dispositivos digitales: la disponibilidad de un software adecuado es suficiente;Penetración tecnológica en el centro;TECCEN;Escuelas;G2
+SC155Q06HA;Capacidad del colegio en el uso de dispositivos digitales: el profesorado tiene las capacidades para integrar dispositivos digitales en la enseñanza;Penetración tecnológica en el centro;TECCEN;Escuelas;G2
+SC155Q07HA;Capacidad del colegio en el uso de dispositivos digitales: el profesorado tiene suficiente tiempo para preparar sus clases integrando dipositivos digitales;Penetración tecnológica en el centro;TECCEN;Escuelas;G2
+SC155Q08HA;Capacidad del colegio en el uso de dispositivos digitales: Existen recursos profesionales efectivos para que el profesorado aprenda a usar dispositivos digitales;Penetración tecnológica en el centro;TECCEN;Escuelas;G2
+SC155Q09HA;Capacidad del colegio en el uso de dispositivos digitales: una plataforma de enseñanza digital efectiva está disponible;Penetración tecnológica en el centro;TECCEN;Escuelas;G2
+SC155Q10HA;Capacidad del colegio en el uso de dispositivos digitales: el profesorado recibe incentivos al integrar dispositivos digitales en su enseñanza;Penetración tecnológica en el centro;TECCEN;Escuelas;G2
+SC155Q11HA;Capacidad del colegio en el uso de dispositivos digitales: el colegio tiene suficientepersonal técnico cualificado contratado;Penetración tecnológica en el centro;TECCEN;Escuelas;G2
+SC004Q01TA;En tu colegio, ¿cuál es el número total de estudiantes en 3º ESO?;Penetración tecnológica en el centro;TECCEN;Escuelas;G2
+SC004Q02TA;Aproximadamente, ¿cuántos ordenadores están disponibles para el alumnado para fines educativos?;Penetración tecnológica en el centro;TECCEN;Escuelas;G2
+SC004Q03TA;Aproximadamente, ¿cuántos de esos ordenadores están conectados a Internet/WWW?;Penetración tecnológica en el centro;TECCEN;Escuelas;G2
+SC004Q04NA;Aproximadamente, ¿cuántos de esos ordenadores son portátiles (por ejemplo, portatil, tabletas)?;Penetración tecnológica en el centro;TECCEN;Escuelas;G2
+SC004Q05NA;Aproximadamente, ¿cuántas pizarras electrónicas hay disponibles en el colegio?;Penetración tecnológica en el centro;TECCEN;Escuelas;G2
+SC004Q06NA;Aproximadamente, ¿cuántos proyectores hay disponibles en el colegio?;Penetración tecnológica en el centro;TECCEN;Escuelas;G2
+SC004Q07NA;Aproximadamente, ¿cuántos ordenadores con conexión a Internet están disponibles para el profesorado en el colegio?;Penetración tecnológica en el centro;TECCEN;Escuelas;G2
+SC061Q01TA;Grado en el que el aprendizaje del alumnado se ve obstaculizado por: abandono escolar;Percepción de las razones del fracaso escolar;FRAESCO;Escuelas;G2
+SC061Q02TA;Grado en el que el aprendizaje del alumnado se ve obstaculizado por: absentismo escolar;Percepción de las razones del fracaso escolar;FRAESCO;Escuelas;G2
+SC061Q03TA;Grado en el que el aprendizaje del alumnado se ve obstaculizado por: falta de respeto del alumnado hacia el profesorado;Percepción de las razones del fracaso escolar;FRAESCO;Escuelas;G2
+SC061Q04TA;Grado en el que el aprendizaje del alumnado se ve obstaculizado por: consumo de alcohol y grogas por parte del alumnado;Percepción de las razones del fracaso escolar;FRAESCO;Escuelas;G2
+SC061Q05TA;Grado en el que el aprendizaje del alumnado se ve obstaculizado por: indimidación y acoso de unos/as alumnos/as a otros/as;Percepción de las razones del fracaso escolar;FRAESCO;Escuelas;G2
+SC061Q11HA;Grado en el que el aprendizaje del alumnado se ve obstaculizado por: baja atención del alumnado;Percepción de las razones del fracaso escolar;FRAESCO;Escuelas;G2
+SC061Q06TA;Grado en el que el aprendizaje del alumnado se ve obstaculizado por: el profesorado no atiende a las necesidades específicas del alumnado;Percepción de las razones del fracaso escolar;FRAESCO;Escuelas;G2
+SC061Q07TA;Grado en el que el aprendizaje del alumnado se ve obstaculizado por: absentismo del profesorado;Percepción de las razones del fracaso escolar;FRAESCO;Escuelas;G2
+SC061Q08TA;Grado en el que el aprendizaje del alumnado se ve obstaculizado por: resistencia del equipo hacia el cambio;Percepción de las razones del fracaso escolar;FRAESCO;Escuelas;G2
+SC061Q09TA;Grado en el que el aprendizaje del alumnado se ve obstaculizado por: el profesorado no es lo suficientemente estricto con el alumnado;Percepción de las razones del fracaso escolar;FRAESCO;Escuelas;G2
+SC061Q10TA;Grado en el que el aprendizaje del alumnado se ve obstaculizado por: el profesorado no se prepara bien las clases;Percepción de las razones del fracaso escolar;FRAESCO;Escuelas;G2
+SC166Q02HA;Opinión compartida por el profesorado: es importante para el alumnado aprender que las personas de otras culturas pueden;Percepción del profesorado sobre la importancia de la educación intercultural;EDUINTE;Escuelas;G2
+SC166Q03HA;Opinión compartida por el profesorado: respetar otras culturas es algo que el alumando debería aprender lo antes posible;Percepción del profesorado sobre la importancia de la educación intercultural;EDUINTE;Escuelas;G2
+SC166Q05HA;Opinión compartida por el profesorado: en clase, es importante que el alumnado de diferentes orígenes reconozca...;Percepción del profesorado sobre la importancia de la educación intercultural;EDUINTE;Escuelas;G2
+SC166Q06HA;Opinión compartida por el profesorado: cuando hay conflictos entre estudiantes de diferentes origenes culturales, deben...;Percepción del profesorado sobre la importancia de la educación intercultural;EDUINTE;Escuelas;G2
+SC003Q01TA;¿Cuál es el tamaño medio de las clases de lengua española para el alumnado de 3º ESO en tu colegio?;Peso curricular;PESCURRI;Escuelas;G2
+SC152Q01HA;¿Tu colegio ofrece clases adicionales de lengua castellana durante el horario estandar escolar?;Peso curricular;PESCURRI;Escuelas;G2
+SC160Q01WA;¿Cuál es el objetivo de esas clases adicionales?;Peso curricular;PESCURRI;Escuelas;G2
+SC156Q03HA;En el colegio: existe un programa de uso de dispositivos digitales para el prceso de enseñanza/aprendizaje en asignaturas específicas;Políticas de digitalización en el centro educativo;DIGIEDU;Escuelas;G3
+SC156Q04HA;En el colegio: existen discusiones (reuniones) regulares con personal educativo sobre el uso de los dispositivos digitales con fines pedagógicos;Políticas de digitalización en el centro educativo;DIGIEDU;Escuelas;G3
+SC156Q05HA;En el colegio: existe un programa específico para preparar al alumnado sobre comportamiento responsable de internet;Políticas de digitalización en el centro educativo;DIGIEDU;Escuelas;G3
+SC156Q06HA;En el colegio: existe una política específica  sobre el uso de las redes sociales (Facebook, etc) en el aprendizaje y enseñanza;Políticas de digitalización en el centro educativo;DIGIEDU;Escuelas;G3
+SC156Q07HA;En el colegio: existe un programa específico para promover la colaboración entre el profesorado sobre el uso de los dispositivos digitales;Políticas de digitalización en el centro educativo;DIGIEDU;Escuelas;G3
+SC156Q08HA;En el colegio: existe un tiempo determinado con el profesorado para encontrarse, compartir, evaluar y desarrollar materiales educativos y...;Políticas de digitalización en el centro educativo;DIGIEDU;Escuelas;G3
+SC150Q01IA;Políticas escorales orientadas a la equidad: aquellos estudiantes que asisten regularmente a las clases y reciben periodos adicionales de..;Políticas escorales orientadas a la equidad;POLEQUI;Escuelas;G3
+SC150Q02IA;Políticas escorales orientadas a la equidad: antes de transferirles a las clases ordinarias, hay programas preparatorios dirigidos a..;Políticas escorales orientadas a la equidad;POLEQUI;Escuelas;G3
+SC150Q03IA;aPolíticas escorales orientadas a la equidad: antes de la transferencia a las clases ordinarias, la enseñanza en las asignaturas...;Políticas escorales orientadas a la equidad;POLEQUI;Escuelas;G3
+SC150Q04IA;Políticas escorales orientadas a la equidad: esos estudiantes reciben cierta parte de su enseñanza en su idioma materno;Políticas escorales orientadas a la equidad;POLEQUI;Escuelas;G3
+SC150Q05IA;Políticas escolares orientadas a la equidad: se reduce el tamaño de la clase para atender las necesidades especiales a su alumnado ;Políticas escorales orientadas a la equidad;POLEQUI;Escuelas;G3
+SC052Q01NA;Para el alumnado de 15 años, el colegio ofrece ayuda para el estudio: clases donde el alumnado puede hacer sus deberes;Políticas escorales orientadas a la equidad;POLEQUI;Escuelas;G3
+SC052Q02NA;Para el alumnado de 15 años, el colegio ofrece ayuda para el estudio: personal contratado para ayudar con los deberes;Políticas escorales orientadas a la equidad;POLEQUI;Escuelas;G3
+SC052Q03HA;Para el alumnado de 15 años, el colegio ofrece ayuda para el estudio: tutorias entre pares;Políticas escorales orientadas a la equidad;POLEQUI;Escuelas;G3
+SC048Q02NA;Porcentaje: estudiantes con necesidades específicas;Porcentaje: estudiantes con necesidades específicas;SC048Q02NA;Escuelas;G3
+SC048Q01NA;Porcentaje: estudiantes cuya lengua materna es diferente al idioma vehicular del centro?;Porcentaje: estudiantes cuya lengua materna es diferente al idioma vehicular del centro?;SC048Q01NA;Escuelas;G3
+SC048Q03NA;Porcentaje: estudiantes en casas con una situación de vulnerabilidad socioeconómica;Porcentaje: estudiantes en casas con una situación de vulnerabilidad socioeconómica;SC048Q03NA;Escuelas;G3
+SC165Q01HA;Prácticas educativas: el alumnado aprende sobre la historia de diversidad cultural del país;Practicas educativas orientadas a favorecer la diversidad cultural;DIVECUL;Escuelas;G3
+SC165Q02HA;Prácticas educativas: el alumnado aprender sobre la historia de diversidad cultural de otros países;Practicas educativas orientadas a favorecer la diversidad cultural;DIVECUL;Escuelas;G3
+SC165Q03HA;Prácticas educativas: el alumnado aprende sobre cultura o grupos que viven en el país;Practicas educativas orientadas a favorecer la diversidad cultural;DIVECUL;Escuelas;G3
+SC165Q04HA;Prácticas educativas:  el alumnado aprende sobre diferentes perspectivas culturales en los hitos históricos y sociales;Practicas educativas orientadas a favorecer la diversidad cultural;DIVECUL;Escuelas;G3
+SC165Q05HA;Prácticas educativas:  nuestro colegio apoya actividades para animar al alumnado a expresar su identidad diversa;Practicas educativas orientadas a favorecer la diversidad cultural;DIVECUL;Escuelas;G3
+SC165Q06HA;Prácticas educativas: nuestro colegio ofrece programas de intercambio con otros colegios de otros países;Practicas educativas orientadas a favorecer la diversidad cultural;DIVECUL;Escuelas;G3
+SC165Q07HA;Prácticas educativas: nuestro colegio organiza eventos multiculturales (por ejemplo, el día de la diversidad cultural);Practicas educativas orientadas a favorecer la diversidad cultural;DIVECUL;Escuelas;G3
+SC165Q08HA;Prácticas educativas: in nuestro colegio, celebramos festivakes de otras culturas;Practicas educativas orientadas a favorecer la diversidad cultural;DIVECUL;Escuelas;G3
+SC165Q09HA;Prácticas educativas: en nuestro colegio, al alumando se le anima a comunicarse con otras personas de otras culturas;Practicas educativas orientadas a favorecer la diversidad cultural;DIVECUL;Escuelas;G3
+SC165Q10HA;Prácticas educativas: nuestro colegio adopta acercamientos pra educar al alumnado sobre las diferencias culturales;Practicas educativas orientadas a favorecer la diversidad cultural;DIVECUL;Escuelas;G3
+SC016Q01TA;Porcentaje del total de presupuesto anual: gobierno (autoridades públicas);Presupuesto del centro;PREPCEN;Escuelas;G3
+SC016Q02TA;Porcentaje del total de presupuesto anual: tasas estudiantiles o cargos a los familiares;Presupuesto del centro;PREPCEN;Escuelas;G3
+SC016Q03TA;Porcentaje del total de presupuesto anual: beneficiarios, donaciones, esponsores, captación de fondos de los padres;Presupuesto del centro;PREPCEN;Escuelas;G3
+SC016Q04TA;Porcentaje del total de presupuesto anual: otros;Presupuesto del centro;PREPCEN;Escuelas;G3
+SC167Q01HA;Currículo de lo siguiente (para alumnado de 15 años): comunicación con personas de diferentes...;Programación curricular teniendo en cuenta la diversidad cultural;PRODIVCUL;Escuelas;G3
+SC167Q02HA;Currículo de lo siguiente (para alumnado de 15 años): conocimiento de diferentes culturas;Programación curricular teniendo en cuenta la diversidad cultural;PRODIVCUL;Escuelas;G3
+SC167Q03HA;Currículo de lo siguiente (para alumnado de 15 años): apertura hacia experiencias interculturales;Programación curricular teniendo en cuenta la diversidad cultural;PRODIVCUL;Escuelas;G3
+SC167Q04HA;Currículo de lo siguiente (para alumnado de 15 años): respeto por la diversidad cultural;Programación curricular teniendo en cuenta la diversidad cultural;PRODIVCUL;Escuelas;G3
+SC167Q05HA;Currículo de lo siguiente (para alumnado de 15 años): idiomas extranjeros;Programación curricular teniendo en cuenta la diversidad cultural;PRODIVCUL;Escuelas;G3
+SCHLTYPE;Propiedad de la escuela;Propiedad de la escuela;SCHLTYPE;Escuelas;G3
+STRATIO;Ratio estudiante-profesorado;Ratio estudiante-profesorado;STRATIO;Escuelas;G3
+CLSIZE;Tamaño de la clase;Tamaño de la clase;CLSIZE;Escuelas;G3
+SCHSIZE;Tamaño del centro;Tamaño del centro;SCHSIZE;Escuelas;G3
+SC154Q01HA;Uso de las evaluaciones del alumnado: guiar el aprendizaje del alumando;Uso de las evaluaciones del alumnado;EVAALU;Escuelas;G3
+SC154Q02WA;Uso de las evaluaciones del alumnado: informar a los padres sobre el progreso de sus hijos/as;Uso de las evaluaciones del alumnado;EVAALU;Escuelas;G3
+SC154Q03WA;Uso de las evaluaciones del alumnado: tomar decisiones sobre la repetición o promoción del alumando;Uso de las evaluaciones del alumnado;EVAALU;Escuelas;G3
+SC154Q04WA;Uso de las evaluaciones del alumnado: agrupar al alumando por sus objetivos educativos;Uso de las evaluaciones del alumnado;EVAALU;Escuelas;G3
+SC154Q05WA;Uso de las evaluaciones del alumnado: comparar el desempeño/rendimiento del colegio con el desempeño/rendimiento distrito o nacional ;Uso de las evaluaciones del alumnado;EVAALU;Escuelas;G3
+SC154Q06WA;Uso de las evaluaciones del alumnado: monitorizar el progreso del colegio anualmente;Uso de las evaluaciones del alumnado;EVAALU;Escuelas;G3
+SC154Q07WA;Uso de las evaluaciones del alumnado: hacer juicios sobre la efectividad del profesorado;Uso de las evaluaciones del alumnado;EVAALU;Escuelas;G3
+SC154Q08WA;Uso de las evaluaciones del alumnado: identificar los aspectos del currículo que pueden mejorar;Uso de las evaluaciones del alumnado;EVAALU;Escuelas;G3
+SC154Q09HA;Uso de las evaluaciones del alumnado: adaptar el aprendizaje a las necesidades del alumnado;Uso de las evaluaciones del alumnado;EVAALU;Escuelas;G3
+SC154Q10WA;Uso de las evaluaciones del alumnado: comparar el colegio con otros ;Uso de las evaluaciones del alumnado;EVAALU;Escuelas;G3
+SC154Q11HA;Uso de las evaluaciones del alumnado: otorgar certificados al alumnado;Uso de las evaluaciones del alumnado;EVAALU;Escuelas;G3
+SC036Q01TA;Uso de los datos de rendimiento en el colegio: los datos de rendimiento se publican (por ejemplo, en los medios);Uso de los datos de rendimiento en el colegio;DATCOLE;Escuelas;G3
+SC036Q02TA;Uso de los datos de rendimiento en el colegio: las autoridades administrativas hacen seguimiento de los datos de rendimiento a lo largo del tiempo;Uso de los datos de rendimiento en el colegio;DATCOLE;Escuelas;G3
+SC036Q03NA;Uso de los datos de rendimiento en el colegio: los datos de rendimiento se ofrece directamente a los padres;Uso de los datos de rendimiento en el colegio;DATCOLE;Escuelas;G3
